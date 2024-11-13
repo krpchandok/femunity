@@ -1,0 +1,1000 @@
+{"age":50,"location":"Newmarket","symptoms":"Night Sweats, Trouble Sleeping, Urinary Issues, Hot Flashes, Mood Swings, Weight Gain, Joint Pain","cluster":0}
+{"age":54,"location":"Vaughan","symptoms":"Joint Pain, Vaginal Dryness, Hot Flashes, Trouble Sleeping","cluster":0}
+{"age":44,"location":"Oakville","symptoms":"Trouble Sleeping, Mood Swings, Urinary Issues, Vaginal Dryness, Memory Problems","cluster":1}
+{"age":41,"location":"Oakville","symptoms":"Urinary Issues, Mood Swings, Night Sweats, Joint Pain","cluster":1}
+{"age":59,"location":"Ajax","symptoms":"Trouble Sleeping, Mood Swings, Memory Problems, Hot Flashes, Night Sweats, Weight Gain, Urinary Issues, Joint Pain, Vaginal Dryness","cluster":2}
+{"age":48,"location":"Aurora","symptoms":"Weight Gain, Memory Problems, Vaginal Dryness, Urinary Issues, Hot Flashes, Joint Pain, Trouble Sleeping, Night Sweats, Mood Swings","cluster":3}
+{"age":40,"location":"Richmond Hill","symptoms":"Mood Swings, Joint Pain, Night Sweats, Hot Flashes","cluster":1}
+{"age":54,"location":"Whitby","symptoms":"Mood Swings, Hot Flashes, Urinary Issues, Night Sweats, Vaginal Dryness, Trouble Sleeping, Memory Problems, Joint Pain, Weight Gain","cluster":0}
+{"age":60,"location":"Toronto","symptoms":"Urinary Issues, Vaginal Dryness","cluster":2}
+{"age":41,"location":"Burlington","symptoms":"Trouble Sleeping","cluster":1}
+{"age":48,"location":"Pickering","symptoms":"Joint Pain, Memory Problems, Mood Swings, Hot Flashes, Night Sweats, Weight Gain","cluster":3}
+{"age":58,"location":"Milton","symptoms":"Mood Swings, Weight Gain, Night Sweats, Vaginal Dryness, Memory Problems, Urinary Issues, Trouble Sleeping, Hot Flashes","cluster":2}
+{"age":58,"location":"Oakville","symptoms":"Night Sweats, Urinary Issues, Joint Pain, Weight Gain, Mood Swings, Memory Problems, Trouble Sleeping, Hot Flashes","cluster":2}
+{"age":60,"location":"Richmond Hill","symptoms":"Mood Swings, Memory Problems, Trouble Sleeping, Hot Flashes, Urinary Issues","cluster":2}
+{"age":46,"location":"Ajax","symptoms":"Mood Swings, Trouble Sleeping, Weight Gain, Night Sweats","cluster":3}
+{"age":44,"location":"Newmarket","symptoms":"Vaginal Dryness","cluster":1}
+{"age":54,"location":"Toronto","symptoms":"Night Sweats, Urinary Issues, Trouble Sleeping, Joint Pain, Memory Problems, Weight Gain, Mood Swings, Vaginal Dryness","cluster":0}
+{"age":59,"location":"Milton","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping, Joint Pain","cluster":2}
+{"age":56,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Memory Problems, Weight Gain, Hot Flashes, Mood Swings, Urinary Issues, Night Sweats","cluster":4}
+{"age":54,"location":"Ajax","symptoms":"Urinary Issues, Vaginal Dryness, Weight Gain, Hot Flashes, Joint Pain, Trouble Sleeping, Memory Problems, Mood Swings, Night Sweats","cluster":0}
+{"age":41,"location":"Vaughan","symptoms":"Mood Swings, Hot Flashes, Joint Pain, Trouble Sleeping, Night Sweats, Weight Gain, Vaginal Dryness","cluster":1}
+{"age":48,"location":"Brampton","symptoms":"Memory Problems, Urinary Issues, Night Sweats","cluster":3}
+{"age":41,"location":"Milton","symptoms":"Joint Pain, Night Sweats, Urinary Issues, Mood Swings, Vaginal Dryness, Trouble Sleeping, Weight Gain","cluster":1}
+{"age":54,"location":"Mississauga","symptoms":"Hot Flashes, Vaginal Dryness, Joint Pain, Night Sweats, Memory Problems, Trouble Sleeping, Mood Swings","cluster":0}
+{"age":45,"location":"Burlington","symptoms":"Vaginal Dryness, Trouble Sleeping, Urinary Issues, Mood Swings, Memory Problems, Joint Pain, Hot Flashes","cluster":3}
+{"age":56,"location":"Toronto","symptoms":"Hot Flashes, Joint Pain","cluster":4}
+{"age":52,"location":"Mississauga","symptoms":"Hot Flashes","cluster":0}
+{"age":49,"location":"Toronto","symptoms":"Joint Pain","cluster":3}
+{"age":48,"location":"Pickering","symptoms":"Urinary Issues","cluster":3}
+{"age":47,"location":"Mississauga","symptoms":"Urinary Issues, Weight Gain, Joint Pain","cluster":3}
+{"age":49,"location":"Whitby","symptoms":"Memory Problems, Hot Flashes, Trouble Sleeping, Joint Pain, Weight Gain, Urinary Issues, Mood Swings, Vaginal Dryness, Night Sweats","cluster":3}
+{"age":50,"location":"Aurora","symptoms":"Trouble Sleeping, Hot Flashes, Weight Gain, Urinary Issues, Night Sweats","cluster":0}
+{"age":60,"location":"Toronto","symptoms":"Vaginal Dryness, Memory Problems, Mood Swings","cluster":2}
+{"age":47,"location":"Richmond Hill","symptoms":"Weight Gain, Night Sweats, Vaginal Dryness, Hot Flashes, Memory Problems, Trouble Sleeping, Urinary Issues","cluster":3}
+{"age":50,"location":"Pickering","symptoms":"Urinary Issues","cluster":0}
+{"age":54,"location":"Ajax","symptoms":"Hot Flashes, Urinary Issues","cluster":0}
+{"age":59,"location":"Whitby","symptoms":"Vaginal Dryness, Night Sweats, Trouble Sleeping, Hot Flashes, Joint Pain","cluster":2}
+{"age":43,"location":"Aurora","symptoms":"Urinary Issues, Trouble Sleeping, Night Sweats","cluster":1}
+{"age":44,"location":"Ajax","symptoms":"Trouble Sleeping, Vaginal Dryness, Memory Problems","cluster":1}
+{"age":54,"location":"Oakville","symptoms":"Mood Swings, Urinary Issues, Weight Gain, Memory Problems, Hot Flashes, Joint Pain, Trouble Sleeping, Night Sweats","cluster":0}
+{"age":40,"location":"Brampton","symptoms":"Joint Pain, Mood Swings, Night Sweats, Weight Gain, Hot Flashes, Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":55,"location":"Mississauga","symptoms":"Night Sweats, Urinary Issues, Weight Gain, Memory Problems, Mood Swings, Vaginal Dryness","cluster":4}
+{"age":49,"location":"Toronto","symptoms":"Joint Pain, Vaginal Dryness, Urinary Issues, Hot Flashes, Night Sweats, Trouble Sleeping, Weight Gain","cluster":3}
+{"age":40,"location":"Oakville","symptoms":"Trouble Sleeping, Weight Gain, Hot Flashes, Night Sweats, Memory Problems, Urinary Issues, Mood Swings, Joint Pain, Vaginal Dryness","cluster":1}
+{"age":56,"location":"Whitby","symptoms":"Night Sweats, Joint Pain, Weight Gain, Hot Flashes, Memory Problems, Mood Swings, Vaginal Dryness","cluster":4}
+{"age":43,"location":"Milton","symptoms":"Mood Swings, Vaginal Dryness, Trouble Sleeping, Weight Gain, Memory Problems, Night Sweats","cluster":1}
+{"age":53,"location":"Aurora","symptoms":"Weight Gain, Hot Flashes, Urinary Issues, Trouble Sleeping, Joint Pain, Night Sweats","cluster":0}
+{"age":57,"location":"Whitby","symptoms":"Vaginal Dryness, Joint Pain","cluster":4}
+{"age":58,"location":"Ajax","symptoms":"Memory Problems, Urinary Issues, Hot Flashes, Trouble Sleeping, Joint Pain","cluster":2}
+{"age":57,"location":"Vaughan","symptoms":"Hot Flashes, Urinary Issues, Joint Pain, Trouble Sleeping, Vaginal Dryness, Mood Swings, Night Sweats, Memory Problems","cluster":4}
+{"age":54,"location":"Aurora","symptoms":"Urinary Issues","cluster":0}
+{"age":43,"location":"Ajax","symptoms":"Mood Swings, Weight Gain, Trouble Sleeping, Night Sweats","cluster":1}
+{"age":48,"location":"Oakville","symptoms":"Vaginal Dryness, Joint Pain, Mood Swings, Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":54,"location":"Whitby","symptoms":"Vaginal Dryness, Joint Pain, Mood Swings, Night Sweats, Hot Flashes, Urinary Issues","cluster":0}
+{"age":40,"location":"Burlington","symptoms":"Mood Swings","cluster":1}
+{"age":60,"location":"Burlington","symptoms":"Memory Problems, Joint Pain, Night Sweats, Vaginal Dryness, Weight Gain","cluster":2}
+{"age":45,"location":"Pickering","symptoms":"Weight Gain, Urinary Issues, Memory Problems","cluster":3}
+{"age":49,"location":"Burlington","symptoms":"Night Sweats, Vaginal Dryness, Memory Problems, Trouble Sleeping, Urinary Issues, Weight Gain, Hot Flashes","cluster":3}
+{"age":41,"location":"Burlington","symptoms":"Joint Pain, Hot Flashes, Vaginal Dryness, Memory Problems, Urinary Issues, Weight Gain, Mood Swings, Trouble Sleeping","cluster":1}
+{"age":48,"location":"Newmarket","symptoms":"Mood Swings, Trouble Sleeping, Weight Gain, Memory Problems, Joint Pain, Night Sweats, Urinary Issues, Vaginal Dryness, Hot Flashes","cluster":3}
+{"age":59,"location":"Mississauga","symptoms":"Mood Swings, Hot Flashes, Memory Problems","cluster":2}
+{"age":54,"location":"Markham","symptoms":"Joint Pain, Hot Flashes, Urinary Issues, Trouble Sleeping, Weight Gain, Mood Swings, Memory Problems, Night Sweats, Vaginal Dryness","cluster":0}
+{"age":60,"location":"Markham","symptoms":"Trouble Sleeping, Night Sweats, Joint Pain, Weight Gain, Vaginal Dryness","cluster":2}
+{"age":57,"location":"Markham","symptoms":"Mood Swings, Joint Pain, Memory Problems","cluster":4}
+{"age":44,"location":"Milton","symptoms":"Hot Flashes, Memory Problems, Weight Gain, Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":50,"location":"Vaughan","symptoms":"Trouble Sleeping, Hot Flashes, Joint Pain, Memory Problems, Vaginal Dryness, Urinary Issues, Weight Gain","cluster":0}
+{"age":48,"location":"Newmarket","symptoms":"Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":47,"location":"Ajax","symptoms":"Urinary Issues, Joint Pain, Mood Swings, Memory Problems, Trouble Sleeping, Hot Flashes, Vaginal Dryness","cluster":3}
+{"age":49,"location":"Toronto","symptoms":"Hot Flashes, Joint Pain, Vaginal Dryness","cluster":3}
+{"age":55,"location":"Milton","symptoms":"Night Sweats, Hot Flashes, Weight Gain, Memory Problems, Mood Swings, Vaginal Dryness, Trouble Sleeping, Joint Pain","cluster":4}
+{"age":41,"location":"Vaughan","symptoms":"Urinary Issues, Vaginal Dryness, Weight Gain, Hot Flashes, Joint Pain, Mood Swings, Memory Problems, Night Sweats, Trouble Sleeping","cluster":1}
+{"age":52,"location":"Markham","symptoms":"Urinary Issues, Vaginal Dryness, Joint Pain, Weight Gain, Trouble Sleeping","cluster":0}
+{"age":59,"location":"Markham","symptoms":"Weight Gain","cluster":2}
+{"age":49,"location":"Aurora","symptoms":"Weight Gain, Mood Swings, Vaginal Dryness, Joint Pain, Trouble Sleeping","cluster":3}
+{"age":59,"location":"Vaughan","symptoms":"Memory Problems, Joint Pain, Weight Gain, Urinary Issues, Night Sweats, Hot Flashes, Mood Swings","cluster":2}
+{"age":56,"location":"Toronto","symptoms":"Vaginal Dryness, Trouble Sleeping","cluster":4}
+{"age":40,"location":"Pickering","symptoms":"Vaginal Dryness, Night Sweats, Weight Gain, Mood Swings, Hot Flashes, Urinary Issues, Joint Pain","cluster":1}
+{"age":43,"location":"Pickering","symptoms":"Trouble Sleeping, Memory Problems, Urinary Issues, Weight Gain, Joint Pain, Mood Swings, Hot Flashes, Vaginal Dryness, Night Sweats","cluster":1}
+{"age":42,"location":"Ajax","symptoms":"Trouble Sleeping, Urinary Issues","cluster":1}
+{"age":41,"location":"Aurora","symptoms":"Mood Swings","cluster":1}
+{"age":51,"location":"Oakville","symptoms":"Trouble Sleeping, Mood Swings, Memory Problems, Weight Gain, Vaginal Dryness, Hot Flashes, Urinary Issues, Night Sweats, Joint Pain","cluster":0}
+{"age":51,"location":"Burlington","symptoms":"Mood Swings, Urinary Issues, Memory Problems, Vaginal Dryness, Joint Pain, Weight Gain, Night Sweats, Trouble Sleeping, Hot Flashes","cluster":0}
+{"age":58,"location":"Pickering","symptoms":"Urinary Issues, Mood Swings, Memory Problems, Vaginal Dryness, Joint Pain, Night Sweats","cluster":2}
+{"age":41,"location":"Mississauga","symptoms":"Night Sweats, Hot Flashes, Mood Swings, Memory Problems","cluster":1}
+{"age":47,"location":"Brampton","symptoms":"Joint Pain, Night Sweats","cluster":3}
+{"age":57,"location":"Ajax","symptoms":"Urinary Issues, Night Sweats, Vaginal Dryness, Joint Pain, Trouble Sleeping, Weight Gain","cluster":4}
+{"age":54,"location":"Toronto","symptoms":"Urinary Issues, Trouble Sleeping, Joint Pain, Weight Gain, Night Sweats, Mood Swings","cluster":0}
+{"age":49,"location":"Milton","symptoms":"Vaginal Dryness, Mood Swings, Joint Pain, Memory Problems, Trouble Sleeping, Urinary Issues, Night Sweats, Weight Gain","cluster":3}
+{"age":47,"location":"Milton","symptoms":"Mood Swings, Vaginal Dryness, Joint Pain, Trouble Sleeping, Weight Gain","cluster":3}
+{"age":54,"location":"Vaughan","symptoms":"Night Sweats, Memory Problems, Hot Flashes, Joint Pain, Mood Swings, Weight Gain, Trouble Sleeping, Urinary Issues, Vaginal Dryness","cluster":0}
+{"age":47,"location":"Whitby","symptoms":"Joint Pain, Mood Swings, Night Sweats, Trouble Sleeping, Weight Gain, Memory Problems, Urinary Issues, Hot Flashes, Vaginal Dryness","cluster":3}
+{"age":60,"location":"Pickering","symptoms":"Vaginal Dryness, Joint Pain, Trouble Sleeping, Night Sweats, Mood Swings, Hot Flashes","cluster":2}
+{"age":40,"location":"Whitby","symptoms":"Night Sweats, Mood Swings, Joint Pain, Vaginal Dryness, Memory Problems","cluster":1}
+{"age":54,"location":"Toronto","symptoms":"Trouble Sleeping, Joint Pain, Memory Problems, Night Sweats, Hot Flashes, Vaginal Dryness, Mood Swings, Weight Gain, Urinary Issues","cluster":0}
+{"age":47,"location":"Newmarket","symptoms":"Weight Gain, Joint Pain, Mood Swings","cluster":3}
+{"age":58,"location":"Oakville","symptoms":"Trouble Sleeping, Weight Gain, Hot Flashes, Joint Pain, Night Sweats, Mood Swings, Memory Problems","cluster":2}
+{"age":43,"location":"Markham","symptoms":"Night Sweats, Memory Problems, Joint Pain","cluster":1}
+{"age":57,"location":"Brampton","symptoms":"Trouble Sleeping, Weight Gain","cluster":4}
+{"age":57,"location":"Pickering","symptoms":"Hot Flashes, Mood Swings, Trouble Sleeping, Vaginal Dryness, Urinary Issues, Weight Gain, Night Sweats, Memory Problems","cluster":4}
+{"age":40,"location":"Ajax","symptoms":"Joint Pain, Urinary Issues, Memory Problems, Night Sweats, Hot Flashes","cluster":1}
+{"age":48,"location":"Brampton","symptoms":"Mood Swings, Memory Problems, Weight Gain, Night Sweats, Trouble Sleeping, Urinary Issues, Joint Pain, Vaginal Dryness, Hot Flashes","cluster":3}
+{"age":47,"location":"Mississauga","symptoms":"Weight Gain, Joint Pain, Night Sweats, Vaginal Dryness, Urinary Issues, Hot Flashes, Memory Problems, Trouble Sleeping, Mood Swings","cluster":3}
+{"age":55,"location":"Ajax","symptoms":"Joint Pain, Urinary Issues, Night Sweats, Vaginal Dryness, Hot Flashes, Mood Swings, Trouble Sleeping, Memory Problems, Weight Gain","cluster":4}
+{"age":42,"location":"Pickering","symptoms":"Urinary Issues, Trouble Sleeping, Mood Swings, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":53,"location":"Milton","symptoms":"Mood Swings, Night Sweats, Hot Flashes","cluster":0}
+{"age":43,"location":"Markham","symptoms":"Mood Swings, Hot Flashes","cluster":1}
+{"age":48,"location":"Whitby","symptoms":"Trouble Sleeping, Weight Gain, Vaginal Dryness, Hot Flashes, Memory Problems, Urinary Issues, Night Sweats, Mood Swings","cluster":3}
+{"age":53,"location":"Mississauga","symptoms":"Memory Problems, Mood Swings, Weight Gain","cluster":0}
+{"age":43,"location":"Toronto","symptoms":"Night Sweats, Hot Flashes, Joint Pain, Weight Gain, Urinary Issues, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":43,"location":"Richmond Hill","symptoms":"Hot Flashes, Mood Swings, Night Sweats","cluster":1}
+{"age":43,"location":"Milton","symptoms":"Hot Flashes, Night Sweats","cluster":1}
+{"age":51,"location":"Vaughan","symptoms":"Mood Swings, Weight Gain, Urinary Issues, Joint Pain, Trouble Sleeping, Night Sweats, Hot Flashes","cluster":0}
+{"age":59,"location":"Brampton","symptoms":"Urinary Issues, Weight Gain, Trouble Sleeping, Mood Swings, Vaginal Dryness","cluster":2}
+{"age":55,"location":"Oakville","symptoms":"Hot Flashes, Mood Swings, Memory Problems, Night Sweats, Vaginal Dryness, Trouble Sleeping, Joint Pain","cluster":4}
+{"age":48,"location":"Oakville","symptoms":"Mood Swings, Hot Flashes, Trouble Sleeping, Urinary Issues, Memory Problems, Weight Gain","cluster":3}
+{"age":55,"location":"Vaughan","symptoms":"Night Sweats, Trouble Sleeping, Memory Problems, Weight Gain","cluster":4}
+{"age":48,"location":"Milton","symptoms":"Joint Pain, Memory Problems, Weight Gain, Hot Flashes, Night Sweats, Urinary Issues, Vaginal Dryness, Mood Swings","cluster":3}
+{"age":40,"location":"Aurora","symptoms":"Mood Swings, Urinary Issues","cluster":1}
+{"age":41,"location":"Richmond Hill","symptoms":"Weight Gain, Vaginal Dryness, Night Sweats, Hot Flashes, Mood Swings, Memory Problems, Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":57,"location":"Burlington","symptoms":"Trouble Sleeping, Weight Gain, Mood Swings","cluster":4}
+{"age":48,"location":"Brampton","symptoms":"Mood Swings, Hot Flashes, Trouble Sleeping","cluster":3}
+{"age":50,"location":"Toronto","symptoms":"Mood Swings, Joint Pain, Trouble Sleeping, Urinary Issues, Memory Problems, Hot Flashes, Night Sweats, Vaginal Dryness","cluster":0}
+{"age":43,"location":"Newmarket","symptoms":"Night Sweats, Hot Flashes, Memory Problems, Urinary Issues","cluster":1}
+{"age":54,"location":"Oakville","symptoms":"Weight Gain, Night Sweats, Vaginal Dryness, Joint Pain, Memory Problems, Hot Flashes, Mood Swings, Trouble Sleeping","cluster":0}
+{"age":51,"location":"Whitby","symptoms":"Urinary Issues, Mood Swings, Memory Problems","cluster":0}
+{"age":40,"location":"Oakville","symptoms":"Urinary Issues, Joint Pain, Vaginal Dryness, Memory Problems, Hot Flashes, Trouble Sleeping, Weight Gain, Night Sweats","cluster":1}
+{"age":49,"location":"Mississauga","symptoms":"Hot Flashes, Vaginal Dryness, Mood Swings, Trouble Sleeping, Urinary Issues, Joint Pain, Night Sweats","cluster":3}
+{"age":47,"location":"Oakville","symptoms":"Night Sweats, Joint Pain","cluster":3}
+{"age":52,"location":"Toronto","symptoms":"Memory Problems, Hot Flashes, Trouble Sleeping, Mood Swings","cluster":0}
+{"age":57,"location":"Toronto","symptoms":"Memory Problems, Night Sweats, Hot Flashes, Urinary Issues, Joint Pain, Weight Gain, Vaginal Dryness, Mood Swings, Trouble Sleeping","cluster":4}
+{"age":47,"location":"Aurora","symptoms":"Urinary Issues, Weight Gain","cluster":3}
+{"age":60,"location":"Aurora","symptoms":"Hot Flashes, Urinary Issues, Mood Swings, Memory Problems","cluster":2}
+{"age":60,"location":"Brampton","symptoms":"Joint Pain, Mood Swings, Memory Problems, Weight Gain, Trouble Sleeping, Night Sweats, Vaginal Dryness, Hot Flashes, Urinary Issues","cluster":2}
+{"age":51,"location":"Brampton","symptoms":"Vaginal Dryness, Hot Flashes, Weight Gain, Joint Pain, Memory Problems, Night Sweats, Trouble Sleeping, Mood Swings, Urinary Issues","cluster":0}
+{"age":53,"location":"Mississauga","symptoms":"Mood Swings, Vaginal Dryness, Memory Problems","cluster":0}
+{"age":42,"location":"Markham","symptoms":"Vaginal Dryness, Mood Swings, Hot Flashes, Joint Pain, Trouble Sleeping, Night Sweats, Urinary Issues, Weight Gain","cluster":1}
+{"age":55,"location":"Vaughan","symptoms":"Mood Swings, Night Sweats, Joint Pain","cluster":4}
+{"age":56,"location":"Whitby","symptoms":"Mood Swings, Hot Flashes, Weight Gain, Urinary Issues, Trouble Sleeping, Night Sweats, Memory Problems, Vaginal Dryness, Joint Pain","cluster":4}
+{"age":44,"location":"Richmond Hill","symptoms":"Night Sweats, Weight Gain, Mood Swings, Joint Pain, Trouble Sleeping, Memory Problems, Vaginal Dryness","cluster":1}
+{"age":56,"location":"Pickering","symptoms":"Memory Problems, Joint Pain, Urinary Issues, Weight Gain, Night Sweats, Mood Swings, Hot Flashes, Vaginal Dryness","cluster":4}
+{"age":57,"location":"Whitby","symptoms":"Night Sweats, Urinary Issues, Joint Pain, Memory Problems, Trouble Sleeping, Weight Gain, Hot Flashes, Vaginal Dryness, Mood Swings","cluster":4}
+{"age":51,"location":"Aurora","symptoms":"Night Sweats, Weight Gain","cluster":0}
+{"age":58,"location":"Pickering","symptoms":"Vaginal Dryness, Hot Flashes, Urinary Issues, Mood Swings","cluster":2}
+{"age":60,"location":"Vaughan","symptoms":"Memory Problems, Weight Gain, Vaginal Dryness, Mood Swings, Joint Pain","cluster":2}
+{"age":57,"location":"Markham","symptoms":"Weight Gain, Hot Flashes, Urinary Issues, Night Sweats, Vaginal Dryness, Joint Pain, Trouble Sleeping, Memory Problems, Mood Swings","cluster":4}
+{"age":56,"location":"Brampton","symptoms":"Urinary Issues","cluster":4}
+{"age":56,"location":"Whitby","symptoms":"Weight Gain, Memory Problems, Vaginal Dryness","cluster":4}
+{"age":46,"location":"Pickering","symptoms":"Joint Pain, Urinary Issues, Trouble Sleeping, Weight Gain, Mood Swings, Hot Flashes","cluster":3}
+{"age":45,"location":"Milton","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping, Night Sweats, Joint Pain, Mood Swings, Hot Flashes","cluster":3}
+{"age":44,"location":"Brampton","symptoms":"Memory Problems, Night Sweats, Weight Gain, Joint Pain, Vaginal Dryness","cluster":1}
+{"age":53,"location":"Pickering","symptoms":"Night Sweats, Memory Problems, Joint Pain, Mood Swings, Urinary Issues","cluster":0}
+{"age":42,"location":"Richmond Hill","symptoms":"Memory Problems, Mood Swings, Trouble Sleeping, Night Sweats, Vaginal Dryness, Weight Gain, Joint Pain, Hot Flashes, Urinary Issues","cluster":1}
+{"age":46,"location":"Milton","symptoms":"Weight Gain, Urinary Issues, Memory Problems","cluster":3}
+{"age":51,"location":"Pickering","symptoms":"Weight Gain, Mood Swings, Hot Flashes","cluster":0}
+{"age":45,"location":"Markham","symptoms":"Urinary Issues, Night Sweats, Joint Pain, Vaginal Dryness, Memory Problems, Trouble Sleeping, Mood Swings","cluster":3}
+{"age":41,"location":"Mississauga","symptoms":"Mood Swings, Trouble Sleeping, Memory Problems","cluster":1}
+{"age":59,"location":"Toronto","symptoms":"Hot Flashes, Night Sweats, Mood Swings, Memory Problems","cluster":2}
+{"age":56,"location":"Brampton","symptoms":"Mood Swings, Joint Pain, Weight Gain, Vaginal Dryness","cluster":4}
+{"age":60,"location":"Toronto","symptoms":"Urinary Issues, Hot Flashes, Vaginal Dryness, Mood Swings, Trouble Sleeping","cluster":2}
+{"age":41,"location":"Brampton","symptoms":"Memory Problems, Trouble Sleeping, Hot Flashes, Urinary Issues, Weight Gain, Joint Pain, Mood Swings","cluster":1}
+{"age":43,"location":"Milton","symptoms":"Urinary Issues, Weight Gain, Vaginal Dryness, Joint Pain","cluster":1}
+{"age":46,"location":"Newmarket","symptoms":"Trouble Sleeping, Mood Swings, Hot Flashes, Night Sweats, Joint Pain, Memory Problems, Urinary Issues, Weight Gain","cluster":3}
+{"age":49,"location":"Oakville","symptoms":"Urinary Issues, Joint Pain, Memory Problems, Hot Flashes, Trouble Sleeping","cluster":3}
+{"age":41,"location":"Toronto","symptoms":"Memory Problems, Vaginal Dryness, Joint Pain, Urinary Issues, Weight Gain, Trouble Sleeping, Hot Flashes","cluster":1}
+{"age":44,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Trouble Sleeping, Mood Swings, Joint Pain, Urinary Issues, Night Sweats","cluster":1}
+{"age":48,"location":"Milton","symptoms":"Memory Problems","cluster":3}
+{"age":48,"location":"Aurora","symptoms":"Mood Swings","cluster":3}
+{"age":56,"location":"Toronto","symptoms":"Urinary Issues, Night Sweats","cluster":4}
+{"age":49,"location":"Whitby","symptoms":"Mood Swings, Trouble Sleeping, Vaginal Dryness, Hot Flashes, Night Sweats, Joint Pain, Weight Gain","cluster":3}
+{"age":51,"location":"Burlington","symptoms":"Hot Flashes, Weight Gain, Night Sweats","cluster":0}
+{"age":57,"location":"Toronto","symptoms":"Hot Flashes, Mood Swings, Night Sweats, Vaginal Dryness, Urinary Issues, Weight Gain","cluster":4}
+{"age":57,"location":"Newmarket","symptoms":"Weight Gain, Joint Pain, Memory Problems, Hot Flashes, Night Sweats, Urinary Issues, Mood Swings","cluster":4}
+{"age":56,"location":"Mississauga","symptoms":"Hot Flashes, Memory Problems, Weight Gain, Mood Swings, Urinary Issues, Night Sweats, Vaginal Dryness, Trouble Sleeping, Joint Pain","cluster":4}
+{"age":60,"location":"Brampton","symptoms":"Vaginal Dryness, Joint Pain, Night Sweats, Hot Flashes, Memory Problems, Urinary Issues, Mood Swings","cluster":2}
+{"age":51,"location":"Burlington","symptoms":"Hot Flashes, Trouble Sleeping, Urinary Issues, Memory Problems","cluster":0}
+{"age":55,"location":"Oakville","symptoms":"Weight Gain, Joint Pain, Mood Swings, Memory Problems, Vaginal Dryness, Hot Flashes, Urinary Issues","cluster":4}
+{"age":57,"location":"Markham","symptoms":"Urinary Issues","cluster":4}
+{"age":49,"location":"Markham","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping, Joint Pain","cluster":3}
+{"age":46,"location":"Vaughan","symptoms":"Night Sweats, Trouble Sleeping, Weight Gain","cluster":3}
+{"age":42,"location":"Vaughan","symptoms":"Trouble Sleeping, Hot Flashes, Weight Gain, Vaginal Dryness, Urinary Issues, Night Sweats","cluster":1}
+{"age":49,"location":"Pickering","symptoms":"Joint Pain, Weight Gain, Memory Problems, Night Sweats, Urinary Issues, Trouble Sleeping, Vaginal Dryness, Mood Swings","cluster":3}
+{"age":55,"location":"Richmond Hill","symptoms":"Mood Swings, Night Sweats, Vaginal Dryness, Hot Flashes, Memory Problems","cluster":4}
+{"age":46,"location":"Ajax","symptoms":"Hot Flashes, Trouble Sleeping, Night Sweats, Vaginal Dryness, Mood Swings, Memory Problems","cluster":3}
+{"age":50,"location":"Pickering","symptoms":"Night Sweats, Mood Swings, Hot Flashes, Weight Gain","cluster":0}
+{"age":59,"location":"Milton","symptoms":"Mood Swings","cluster":2}
+{"age":44,"location":"Brampton","symptoms":"Night Sweats, Urinary Issues, Joint Pain, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":59,"location":"Pickering","symptoms":"Hot Flashes, Weight Gain, Urinary Issues, Night Sweats, Memory Problems, Vaginal Dryness, Mood Swings, Joint Pain","cluster":2}
+{"age":57,"location":"Toronto","symptoms":"Weight Gain, Joint Pain, Hot Flashes, Mood Swings","cluster":4}
+{"age":50,"location":"Aurora","symptoms":"Memory Problems","cluster":0}
+{"age":53,"location":"Toronto","symptoms":"Hot Flashes, Urinary Issues, Weight Gain, Mood Swings, Trouble Sleeping, Joint Pain","cluster":0}
+{"age":52,"location":"Pickering","symptoms":"Memory Problems, Joint Pain, Trouble Sleeping, Urinary Issues, Night Sweats, Vaginal Dryness, Hot Flashes","cluster":0}
+{"age":54,"location":"Markham","symptoms":"Night Sweats, Joint Pain, Vaginal Dryness, Hot Flashes, Trouble Sleeping","cluster":0}
+{"age":45,"location":"Mississauga","symptoms":"Hot Flashes, Night Sweats, Mood Swings, Joint Pain","cluster":3}
+{"age":59,"location":"Pickering","symptoms":"Joint Pain, Urinary Issues, Hot Flashes, Memory Problems, Weight Gain, Mood Swings, Night Sweats, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":50,"location":"Vaughan","symptoms":"Hot Flashes","cluster":0}
+{"age":40,"location":"Pickering","symptoms":"Mood Swings, Trouble Sleeping, Night Sweats, Vaginal Dryness, Hot Flashes, Joint Pain, Weight Gain, Urinary Issues, Memory Problems","cluster":1}
+{"age":42,"location":"Toronto","symptoms":"Hot Flashes, Vaginal Dryness, Joint Pain","cluster":1}
+{"age":49,"location":"Brampton","symptoms":"Trouble Sleeping, Vaginal Dryness","cluster":3}
+{"age":57,"location":"Ajax","symptoms":"Hot Flashes, Night Sweats, Urinary Issues, Trouble Sleeping, Vaginal Dryness","cluster":4}
+{"age":49,"location":"Brampton","symptoms":"Joint Pain, Urinary Issues, Memory Problems, Hot Flashes, Vaginal Dryness, Mood Swings, Weight Gain, Night Sweats","cluster":3}
+{"age":41,"location":"Ajax","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping, Night Sweats, Joint Pain, Hot Flashes, Mood Swings, Vaginal Dryness","cluster":1}
+{"age":46,"location":"Burlington","symptoms":"Memory Problems, Urinary Issues, Night Sweats, Trouble Sleeping, Vaginal Dryness","cluster":3}
+{"age":55,"location":"Milton","symptoms":"Weight Gain, Vaginal Dryness, Memory Problems, Urinary Issues","cluster":4}
+{"age":41,"location":"Ajax","symptoms":"Memory Problems, Urinary Issues, Weight Gain","cluster":1}
+{"age":49,"location":"Ajax","symptoms":"Trouble Sleeping, Hot Flashes, Weight Gain, Mood Swings, Night Sweats, Memory Problems","cluster":3}
+{"age":45,"location":"Pickering","symptoms":"Hot Flashes, Trouble Sleeping, Joint Pain, Night Sweats, Vaginal Dryness, Memory Problems, Urinary Issues, Weight Gain, Mood Swings","cluster":3}
+{"age":56,"location":"Ajax","symptoms":"Mood Swings, Trouble Sleeping, Night Sweats, Urinary Issues, Weight Gain, Hot Flashes, Joint Pain, Vaginal Dryness, Memory Problems","cluster":4}
+{"age":45,"location":"Mississauga","symptoms":"Urinary Issues, Trouble Sleeping","cluster":3}
+{"age":58,"location":"Newmarket","symptoms":"Urinary Issues, Hot Flashes, Vaginal Dryness, Joint Pain, Mood Swings, Trouble Sleeping, Memory Problems, Weight Gain","cluster":2}
+{"age":46,"location":"Ajax","symptoms":"Mood Swings, Trouble Sleeping, Hot Flashes, Weight Gain","cluster":3}
+{"age":45,"location":"Oakville","symptoms":"Night Sweats, Urinary Issues, Joint Pain, Vaginal Dryness, Memory Problems, Mood Swings, Weight Gain","cluster":3}
+{"age":49,"location":"Toronto","symptoms":"Memory Problems, Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":58,"location":"Mississauga","symptoms":"Hot Flashes, Night Sweats, Trouble Sleeping","cluster":2}
+{"age":51,"location":"Pickering","symptoms":"Weight Gain, Urinary Issues, Trouble Sleeping, Hot Flashes, Mood Swings","cluster":0}
+{"age":58,"location":"Toronto","symptoms":"Joint Pain","cluster":2}
+{"age":42,"location":"Richmond Hill","symptoms":"Urinary Issues, Weight Gain","cluster":1}
+{"age":45,"location":"Pickering","symptoms":"Vaginal Dryness, Memory Problems, Joint Pain","cluster":3}
+{"age":58,"location":"Milton","symptoms":"Hot Flashes, Urinary Issues, Memory Problems, Weight Gain","cluster":2}
+{"age":48,"location":"Newmarket","symptoms":"Urinary Issues, Vaginal Dryness, Trouble Sleeping, Memory Problems, Night Sweats, Mood Swings, Hot Flashes, Weight Gain","cluster":3}
+{"age":43,"location":"Brampton","symptoms":"Trouble Sleeping, Vaginal Dryness, Joint Pain, Hot Flashes, Night Sweats, Weight Gain, Mood Swings, Memory Problems, Urinary Issues","cluster":1}
+{"age":59,"location":"Mississauga","symptoms":"Vaginal Dryness, Hot Flashes, Weight Gain, Mood Swings","cluster":2}
+{"age":44,"location":"Oakville","symptoms":"Memory Problems, Vaginal Dryness, Mood Swings, Joint Pain, Weight Gain, Trouble Sleeping","cluster":1}
+{"age":53,"location":"Ajax","symptoms":"Urinary Issues, Mood Swings, Night Sweats, Joint Pain, Trouble Sleeping","cluster":0}
+{"age":41,"location":"Newmarket","symptoms":"Weight Gain, Urinary Issues","cluster":1}
+{"age":41,"location":"Brampton","symptoms":"Urinary Issues, Memory Problems, Hot Flashes, Joint Pain, Night Sweats, Weight Gain, Trouble Sleeping","cluster":1}
+{"age":59,"location":"Markham","symptoms":"Urinary Issues, Joint Pain, Weight Gain, Hot Flashes, Mood Swings, Memory Problems, Trouble Sleeping, Night Sweats, Vaginal Dryness","cluster":2}
+{"age":42,"location":"Milton","symptoms":"Weight Gain, Urinary Issues","cluster":1}
+{"age":56,"location":"Aurora","symptoms":"Hot Flashes, Weight Gain, Urinary Issues, Mood Swings, Vaginal Dryness","cluster":4}
+{"age":51,"location":"Aurora","symptoms":"Memory Problems, Joint Pain, Night Sweats","cluster":0}
+{"age":40,"location":"Newmarket","symptoms":"Vaginal Dryness, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":42,"location":"Brampton","symptoms":"Memory Problems, Joint Pain, Weight Gain, Urinary Issues, Mood Swings, Hot Flashes, Night Sweats, Trouble Sleeping","cluster":1}
+{"age":52,"location":"Milton","symptoms":"Hot Flashes, Weight Gain, Night Sweats, Memory Problems, Urinary Issues","cluster":0}
+{"age":52,"location":"Oakville","symptoms":"Mood Swings, Hot Flashes, Weight Gain","cluster":0}
+{"age":43,"location":"Toronto","symptoms":"Mood Swings, Vaginal Dryness, Trouble Sleeping, Night Sweats, Memory Problems, Urinary Issues, Joint Pain","cluster":1}
+{"age":43,"location":"Markham","symptoms":"Mood Swings, Weight Gain, Memory Problems, Urinary Issues, Night Sweats, Trouble Sleeping, Joint Pain, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":58,"location":"Richmond Hill","symptoms":"Joint Pain, Trouble Sleeping, Memory Problems, Night Sweats","cluster":2}
+{"age":44,"location":"Markham","symptoms":"Weight Gain, Joint Pain, Mood Swings, Urinary Issues, Night Sweats","cluster":1}
+{"age":54,"location":"Milton","symptoms":"Urinary Issues, Joint Pain, Mood Swings, Night Sweats, Hot Flashes, Trouble Sleeping, Vaginal Dryness, Memory Problems","cluster":0}
+{"age":40,"location":"Markham","symptoms":"Weight Gain, Trouble Sleeping, Mood Swings, Vaginal Dryness, Memory Problems, Hot Flashes","cluster":1}
+{"age":52,"location":"Vaughan","symptoms":"Memory Problems, Joint Pain, Trouble Sleeping","cluster":0}
+{"age":53,"location":"Vaughan","symptoms":"Memory Problems, Joint Pain, Trouble Sleeping, Weight Gain, Urinary Issues, Vaginal Dryness","cluster":0}
+{"age":52,"location":"Milton","symptoms":"Vaginal Dryness, Weight Gain, Night Sweats, Memory Problems, Mood Swings, Trouble Sleeping, Joint Pain, Hot Flashes, Urinary Issues","cluster":0}
+{"age":42,"location":"Oakville","symptoms":"Memory Problems, Vaginal Dryness, Hot Flashes, Urinary Issues, Weight Gain, Mood Swings, Night Sweats","cluster":1}
+{"age":56,"location":"Whitby","symptoms":"Vaginal Dryness, Weight Gain, Mood Swings, Hot Flashes, Trouble Sleeping, Joint Pain, Night Sweats, Urinary Issues","cluster":4}
+{"age":57,"location":"Vaughan","symptoms":"Weight Gain, Night Sweats, Urinary Issues","cluster":4}
+{"age":47,"location":"Whitby","symptoms":"Trouble Sleeping, Mood Swings, Hot Flashes, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":40,"location":"Oakville","symptoms":"Trouble Sleeping, Night Sweats, Urinary Issues","cluster":1}
+{"age":51,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Hot Flashes, Memory Problems, Mood Swings, Weight Gain, Joint Pain, Night Sweats, Trouble Sleeping","cluster":0}
+{"age":52,"location":"Oakville","symptoms":"Joint Pain, Trouble Sleeping, Urinary Issues, Mood Swings, Night Sweats","cluster":0}
+{"age":43,"location":"Milton","symptoms":"Urinary Issues, Trouble Sleeping, Joint Pain, Hot Flashes","cluster":1}
+{"age":43,"location":"Newmarket","symptoms":"Night Sweats, Mood Swings, Vaginal Dryness, Weight Gain, Urinary Issues, Joint Pain, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":46,"location":"Newmarket","symptoms":"Hot Flashes, Urinary Issues, Mood Swings, Weight Gain, Trouble Sleeping","cluster":3}
+{"age":59,"location":"Ajax","symptoms":"Night Sweats, Memory Problems, Trouble Sleeping, Urinary Issues","cluster":2}
+{"age":49,"location":"Pickering","symptoms":"Hot Flashes, Mood Swings, Weight Gain","cluster":3}
+{"age":57,"location":"Markham","symptoms":"Night Sweats","cluster":4}
+{"age":60,"location":"Whitby","symptoms":"Mood Swings, Joint Pain, Hot Flashes, Vaginal Dryness, Trouble Sleeping, Night Sweats, Urinary Issues, Weight Gain, Memory Problems","cluster":2}
+{"age":57,"location":"Pickering","symptoms":"Night Sweats, Joint Pain, Trouble Sleeping, Memory Problems, Vaginal Dryness, Hot Flashes, Weight Gain","cluster":4}
+{"age":56,"location":"Vaughan","symptoms":"Joint Pain, Vaginal Dryness, Trouble Sleeping, Memory Problems, Mood Swings, Hot Flashes, Weight Gain","cluster":4}
+{"age":50,"location":"Vaughan","symptoms":"Hot Flashes, Trouble Sleeping, Mood Swings, Weight Gain, Vaginal Dryness, Urinary Issues, Memory Problems","cluster":0}
+{"age":49,"location":"Oakville","symptoms":"Vaginal Dryness, Urinary Issues, Hot Flashes, Trouble Sleeping, Joint Pain, Memory Problems, Weight Gain, Night Sweats, Mood Swings","cluster":3}
+{"age":56,"location":"Whitby","symptoms":"Trouble Sleeping, Memory Problems, Weight Gain, Night Sweats, Hot Flashes, Joint Pain","cluster":4}
+{"age":54,"location":"Milton","symptoms":"Vaginal Dryness, Night Sweats, Memory Problems, Mood Swings, Urinary Issues, Weight Gain, Hot Flashes","cluster":0}
+{"age":41,"location":"Toronto","symptoms":"Memory Problems","cluster":1}
+{"age":55,"location":"Brampton","symptoms":"Memory Problems, Vaginal Dryness, Hot Flashes, Joint Pain, Mood Swings","cluster":4}
+{"age":59,"location":"Mississauga","symptoms":"Night Sweats, Hot Flashes, Vaginal Dryness, Memory Problems, Weight Gain, Urinary Issues, Mood Swings","cluster":2}
+{"age":47,"location":"Markham","symptoms":"Weight Gain, Night Sweats, Trouble Sleeping, Urinary Issues, Mood Swings, Joint Pain","cluster":3}
+{"age":42,"location":"Oakville","symptoms":"Joint Pain, Vaginal Dryness, Urinary Issues, Trouble Sleeping, Hot Flashes, Night Sweats","cluster":1}
+{"age":44,"location":"Aurora","symptoms":"Weight Gain, Joint Pain, Vaginal Dryness","cluster":1}
+{"age":49,"location":"Richmond Hill","symptoms":"Hot Flashes, Joint Pain, Weight Gain, Urinary Issues, Night Sweats, Trouble Sleeping, Memory Problems, Vaginal Dryness, Mood Swings","cluster":3}
+{"age":40,"location":"Oakville","symptoms":"Weight Gain, Urinary Issues, Night Sweats, Memory Problems, Trouble Sleeping","cluster":1}
+{"age":54,"location":"Richmond Hill","symptoms":"Memory Problems, Joint Pain, Urinary Issues","cluster":0}
+{"age":40,"location":"Milton","symptoms":"Urinary Issues, Memory Problems, Vaginal Dryness, Night Sweats","cluster":1}
+{"age":49,"location":"Oakville","symptoms":"Urinary Issues, Trouble Sleeping, Hot Flashes, Weight Gain, Mood Swings","cluster":3}
+{"age":57,"location":"Toronto","symptoms":"Vaginal Dryness, Mood Swings","cluster":4}
+{"age":45,"location":"Markham","symptoms":"Joint Pain, Mood Swings, Hot Flashes, Night Sweats, Weight Gain, Memory Problems, Trouble Sleeping, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":51,"location":"Burlington","symptoms":"Trouble Sleeping","cluster":0}
+{"age":58,"location":"Markham","symptoms":"Hot Flashes, Mood Swings, Night Sweats, Joint Pain, Trouble Sleeping, Memory Problems, Urinary Issues, Vaginal Dryness","cluster":2}
+{"age":48,"location":"Whitby","symptoms":"Weight Gain, Urinary Issues, Mood Swings, Memory Problems, Vaginal Dryness, Night Sweats, Joint Pain, Hot Flashes, Trouble Sleeping","cluster":3}
+{"age":42,"location":"Burlington","symptoms":"Joint Pain, Memory Problems, Urinary Issues, Trouble Sleeping, Night Sweats, Hot Flashes","cluster":1}
+{"age":41,"location":"Whitby","symptoms":"Night Sweats, Hot Flashes, Mood Swings, Joint Pain, Urinary Issues","cluster":1}
+{"age":44,"location":"Burlington","symptoms":"Weight Gain, Urinary Issues, Mood Swings, Memory Problems, Joint Pain, Night Sweats, Trouble Sleeping, Hot Flashes","cluster":1}
+{"age":53,"location":"Newmarket","symptoms":"Hot Flashes, Trouble Sleeping, Mood Swings","cluster":0}
+{"age":42,"location":"Markham","symptoms":"Memory Problems, Night Sweats, Joint Pain","cluster":1}
+{"age":56,"location":"Mississauga","symptoms":"Joint Pain, Vaginal Dryness, Memory Problems, Hot Flashes","cluster":4}
+{"age":47,"location":"Richmond Hill","symptoms":"Vaginal Dryness","cluster":3}
+{"age":57,"location":"Milton","symptoms":"Trouble Sleeping, Joint Pain","cluster":4}
+{"age":60,"location":"Mississauga","symptoms":"Memory Problems, Trouble Sleeping, Weight Gain","cluster":2}
+{"age":52,"location":"Mississauga","symptoms":"Weight Gain, Urinary Issues, Mood Swings, Night Sweats, Memory Problems, Joint Pain, Hot Flashes, Vaginal Dryness","cluster":0}
+{"age":53,"location":"Ajax","symptoms":"Urinary Issues, Hot Flashes, Night Sweats, Vaginal Dryness, Weight Gain","cluster":0}
+{"age":46,"location":"Whitby","symptoms":"Night Sweats, Trouble Sleeping, Urinary Issues, Mood Swings, Memory Problems, Vaginal Dryness, Hot Flashes, Joint Pain","cluster":3}
+{"age":42,"location":"Milton","symptoms":"Vaginal Dryness, Urinary Issues, Trouble Sleeping, Weight Gain, Hot Flashes, Mood Swings, Night Sweats","cluster":1}
+{"age":41,"location":"Toronto","symptoms":"Weight Gain, Memory Problems, Night Sweats, Mood Swings, Urinary Issues, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":40,"location":"Whitby","symptoms":"Vaginal Dryness","cluster":1}
+{"age":45,"location":"Milton","symptoms":"Urinary Issues, Weight Gain, Mood Swings, Trouble Sleeping, Vaginal Dryness, Joint Pain","cluster":3}
+{"age":49,"location":"Oakville","symptoms":"Weight Gain, Joint Pain, Mood Swings, Vaginal Dryness, Trouble Sleeping, Night Sweats, Hot Flashes, Urinary Issues, Memory Problems","cluster":3}
+{"age":45,"location":"Aurora","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":52,"location":"Mississauga","symptoms":"Weight Gain, Joint Pain, Night Sweats, Memory Problems","cluster":0}
+{"age":54,"location":"Oakville","symptoms":"Vaginal Dryness, Mood Swings, Hot Flashes, Memory Problems, Night Sweats, Urinary Issues, Trouble Sleeping","cluster":0}
+{"age":40,"location":"Markham","symptoms":"Weight Gain, Urinary Issues, Memory Problems, Night Sweats, Mood Swings, Trouble Sleeping","cluster":1}
+{"age":53,"location":"Aurora","symptoms":"Urinary Issues, Hot Flashes, Trouble Sleeping, Night Sweats, Vaginal Dryness, Mood Swings, Memory Problems, Weight Gain","cluster":0}
+{"age":43,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Urinary Issues, Mood Swings","cluster":1}
+{"age":42,"location":"Milton","symptoms":"Trouble Sleeping, Hot Flashes, Weight Gain, Vaginal Dryness, Urinary Issues, Mood Swings, Memory Problems, Night Sweats, Joint Pain","cluster":1}
+{"age":42,"location":"Oakville","symptoms":"Weight Gain","cluster":1}
+{"age":47,"location":"Newmarket","symptoms":"Weight Gain","cluster":3}
+{"age":55,"location":"Pickering","symptoms":"Mood Swings, Trouble Sleeping, Weight Gain, Hot Flashes, Night Sweats, Joint Pain","cluster":4}
+{"age":42,"location":"Pickering","symptoms":"Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":45,"location":"Mississauga","symptoms":"Vaginal Dryness","cluster":3}
+{"age":55,"location":"Vaughan","symptoms":"Joint Pain, Weight Gain, Trouble Sleeping, Mood Swings, Urinary Issues, Memory Problems","cluster":4}
+{"age":40,"location":"Milton","symptoms":"Urinary Issues, Memory Problems, Weight Gain, Hot Flashes, Trouble Sleeping, Mood Swings, Night Sweats","cluster":1}
+{"age":40,"location":"Burlington","symptoms":"Mood Swings, Memory Problems, Vaginal Dryness, Hot Flashes, Night Sweats, Joint Pain","cluster":1}
+{"age":40,"location":"Burlington","symptoms":"Weight Gain, Night Sweats, Trouble Sleeping, Hot Flashes, Memory Problems, Vaginal Dryness, Joint Pain","cluster":1}
+{"age":55,"location":"Pickering","symptoms":"Vaginal Dryness, Weight Gain, Memory Problems, Mood Swings, Trouble Sleeping, Night Sweats, Hot Flashes, Joint Pain","cluster":4}
+{"age":55,"location":"Milton","symptoms":"Night Sweats, Urinary Issues, Mood Swings, Vaginal Dryness, Hot Flashes, Trouble Sleeping","cluster":4}
+{"age":57,"location":"Aurora","symptoms":"Joint Pain, Trouble Sleeping, Hot Flashes, Mood Swings","cluster":4}
+{"age":44,"location":"Ajax","symptoms":"Joint Pain, Trouble Sleeping, Night Sweats, Hot Flashes, Vaginal Dryness, Weight Gain","cluster":1}
+{"age":40,"location":"Markham","symptoms":"Joint Pain, Trouble Sleeping, Memory Problems, Weight Gain","cluster":1}
+{"age":57,"location":"Vaughan","symptoms":"Trouble Sleeping, Weight Gain, Night Sweats, Joint Pain, Memory Problems, Urinary Issues, Vaginal Dryness, Mood Swings","cluster":4}
+{"age":49,"location":"Toronto","symptoms":"Night Sweats, Urinary Issues, Vaginal Dryness, Joint Pain","cluster":3}
+{"age":46,"location":"Burlington","symptoms":"Weight Gain, Memory Problems","cluster":3}
+{"age":54,"location":"Burlington","symptoms":"Weight Gain, Trouble Sleeping, Hot Flashes, Vaginal Dryness, Memory Problems","cluster":0}
+{"age":53,"location":"Burlington","symptoms":"Hot Flashes, Urinary Issues","cluster":0}
+{"age":48,"location":"Richmond Hill","symptoms":"Night Sweats, Vaginal Dryness, Weight Gain, Hot Flashes, Mood Swings, Memory Problems, Joint Pain","cluster":3}
+{"age":40,"location":"Vaughan","symptoms":"Night Sweats, Memory Problems, Trouble Sleeping, Urinary Issues, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":56,"location":"Oakville","symptoms":"Mood Swings, Memory Problems, Trouble Sleeping","cluster":4}
+{"age":55,"location":"Whitby","symptoms":"Vaginal Dryness, Joint Pain, Hot Flashes, Weight Gain, Memory Problems","cluster":4}
+{"age":43,"location":"Vaughan","symptoms":"Joint Pain, Weight Gain, Urinary Issues","cluster":1}
+{"age":57,"location":"Toronto","symptoms":"Weight Gain, Joint Pain, Night Sweats, Vaginal Dryness, Mood Swings, Memory Problems","cluster":4}
+{"age":57,"location":"Richmond Hill","symptoms":"Hot Flashes, Trouble Sleeping, Mood Swings, Night Sweats","cluster":4}
+{"age":51,"location":"Vaughan","symptoms":"Trouble Sleeping, Mood Swings, Joint Pain, Hot Flashes, Urinary Issues, Night Sweats, Memory Problems, Weight Gain","cluster":0}
+{"age":48,"location":"Aurora","symptoms":"Memory Problems, Mood Swings, Joint Pain","cluster":3}
+{"age":50,"location":"Pickering","symptoms":"Urinary Issues, Trouble Sleeping, Night Sweats, Weight Gain, Joint Pain, Memory Problems, Mood Swings, Hot Flashes, Vaginal Dryness","cluster":0}
+{"age":58,"location":"Burlington","symptoms":"Night Sweats","cluster":2}
+{"age":42,"location":"Vaughan","symptoms":"Trouble Sleeping, Mood Swings, Night Sweats, Urinary Issues, Hot Flashes, Joint Pain, Vaginal Dryness","cluster":1}
+{"age":53,"location":"Toronto","symptoms":"Night Sweats, Weight Gain, Vaginal Dryness, Mood Swings, Urinary Issues","cluster":0}
+{"age":50,"location":"Pickering","symptoms":"Vaginal Dryness, Mood Swings, Trouble Sleeping","cluster":0}
+{"age":44,"location":"Milton","symptoms":"Night Sweats, Joint Pain","cluster":1}
+{"age":40,"location":"Oakville","symptoms":"Weight Gain, Hot Flashes, Vaginal Dryness, Joint Pain","cluster":1}
+{"age":53,"location":"Mississauga","symptoms":"Hot Flashes, Night Sweats, Weight Gain, Trouble Sleeping, Mood Swings, Urinary Issues, Vaginal Dryness","cluster":0}
+{"age":55,"location":"Vaughan","symptoms":"Joint Pain, Vaginal Dryness","cluster":4}
+{"age":42,"location":"Brampton","symptoms":"Urinary Issues","cluster":1}
+{"age":55,"location":"Ajax","symptoms":"Joint Pain, Vaginal Dryness","cluster":4}
+{"age":54,"location":"Milton","symptoms":"Joint Pain, Hot Flashes, Vaginal Dryness, Urinary Issues, Weight Gain, Night Sweats, Memory Problems, Trouble Sleeping","cluster":0}
+{"age":47,"location":"Milton","symptoms":"Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":57,"location":"Toronto","symptoms":"Hot Flashes, Urinary Issues, Trouble Sleeping, Joint Pain, Weight Gain, Night Sweats, Vaginal Dryness, Memory Problems","cluster":4}
+{"age":52,"location":"Richmond Hill","symptoms":"Hot Flashes, Joint Pain, Weight Gain, Vaginal Dryness, Mood Swings, Trouble Sleeping, Urinary Issues","cluster":0}
+{"age":52,"location":"Newmarket","symptoms":"Vaginal Dryness, Hot Flashes, Night Sweats, Memory Problems, Weight Gain, Urinary Issues, Joint Pain","cluster":0}
+{"age":53,"location":"Markham","symptoms":"Mood Swings","cluster":0}
+{"age":46,"location":"Vaughan","symptoms":"Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":43,"location":"Richmond Hill","symptoms":"Urinary Issues, Trouble Sleeping, Night Sweats, Weight Gain","cluster":1}
+{"age":41,"location":"Pickering","symptoms":"Urinary Issues, Weight Gain, Memory Problems, Hot Flashes, Night Sweats, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":58,"location":"Brampton","symptoms":"Night Sweats, Weight Gain, Vaginal Dryness, Urinary Issues, Joint Pain, Mood Swings, Hot Flashes, Trouble Sleeping, Memory Problems","cluster":2}
+{"age":55,"location":"Aurora","symptoms":"Trouble Sleeping, Night Sweats, Hot Flashes, Vaginal Dryness, Joint Pain, Urinary Issues, Mood Swings","cluster":4}
+{"age":42,"location":"Milton","symptoms":"Urinary Issues","cluster":1}
+{"age":47,"location":"Newmarket","symptoms":"Joint Pain, Night Sweats, Mood Swings, Memory Problems, Weight Gain, Hot Flashes","cluster":3}
+{"age":41,"location":"Vaughan","symptoms":"Vaginal Dryness, Mood Swings, Trouble Sleeping, Joint Pain, Hot Flashes, Night Sweats","cluster":1}
+{"age":59,"location":"Ajax","symptoms":"Joint Pain, Weight Gain, Vaginal Dryness, Hot Flashes, Mood Swings, Memory Problems, Trouble Sleeping, Urinary Issues, Night Sweats","cluster":2}
+{"age":43,"location":"Burlington","symptoms":"Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":49,"location":"Whitby","symptoms":"Memory Problems, Urinary Issues, Hot Flashes, Night Sweats, Mood Swings","cluster":3}
+{"age":53,"location":"Whitby","symptoms":"Mood Swings, Urinary Issues, Hot Flashes, Memory Problems, Trouble Sleeping, Weight Gain, Night Sweats","cluster":0}
+{"age":56,"location":"Toronto","symptoms":"Weight Gain, Trouble Sleeping","cluster":4}
+{"age":46,"location":"Burlington","symptoms":"Hot Flashes, Night Sweats, Urinary Issues, Joint Pain","cluster":3}
+{"age":52,"location":"Aurora","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues, Night Sweats, Weight Gain","cluster":0}
+{"age":47,"location":"Milton","symptoms":"Trouble Sleeping, Vaginal Dryness, Urinary Issues","cluster":3}
+{"age":49,"location":"Aurora","symptoms":"Trouble Sleeping, Vaginal Dryness, Weight Gain","cluster":3}
+{"age":48,"location":"Vaughan","symptoms":"Hot Flashes, Trouble Sleeping, Joint Pain","cluster":3}
+{"age":41,"location":"Burlington","symptoms":"Mood Swings, Night Sweats, Joint Pain, Hot Flashes, Weight Gain, Memory Problems, Vaginal Dryness, Trouble Sleeping","cluster":1}
+{"age":56,"location":"Whitby","symptoms":"Hot Flashes, Memory Problems","cluster":4}
+{"age":42,"location":"Brampton","symptoms":"Joint Pain","cluster":1}
+{"age":51,"location":"Richmond Hill","symptoms":"Mood Swings, Night Sweats, Memory Problems","cluster":0}
+{"age":45,"location":"Aurora","symptoms":"Vaginal Dryness, Hot Flashes, Urinary Issues","cluster":3}
+{"age":60,"location":"Oakville","symptoms":"Trouble Sleeping, Memory Problems, Hot Flashes, Mood Swings, Night Sweats, Vaginal Dryness, Joint Pain, Urinary Issues","cluster":2}
+{"age":49,"location":"Richmond Hill","symptoms":"Hot Flashes, Memory Problems, Night Sweats, Vaginal Dryness, Weight Gain, Joint Pain, Urinary Issues, Trouble Sleeping","cluster":3}
+{"age":60,"location":"Toronto","symptoms":"Night Sweats, Memory Problems, Weight Gain, Trouble Sleeping, Hot Flashes, Urinary Issues, Mood Swings","cluster":2}
+{"age":50,"location":"Ajax","symptoms":"Hot Flashes, Weight Gain, Vaginal Dryness","cluster":0}
+{"age":52,"location":"Burlington","symptoms":"Weight Gain, Urinary Issues, Joint Pain, Trouble Sleeping, Night Sweats, Hot Flashes, Memory Problems, Vaginal Dryness, Mood Swings","cluster":0}
+{"age":58,"location":"Vaughan","symptoms":"Weight Gain","cluster":2}
+{"age":52,"location":"Whitby","symptoms":"Joint Pain, Vaginal Dryness, Weight Gain, Trouble Sleeping, Mood Swings, Night Sweats","cluster":0}
+{"age":58,"location":"Ajax","symptoms":"Urinary Issues, Trouble Sleeping, Memory Problems, Night Sweats, Mood Swings, Vaginal Dryness, Joint Pain, Weight Gain","cluster":2}
+{"age":55,"location":"Pickering","symptoms":"Night Sweats, Urinary Issues, Joint Pain","cluster":4}
+{"age":40,"location":"Markham","symptoms":"Vaginal Dryness, Hot Flashes, Trouble Sleeping, Urinary Issues, Weight Gain, Memory Problems, Mood Swings","cluster":1}
+{"age":56,"location":"Brampton","symptoms":"Urinary Issues, Memory Problems, Night Sweats, Vaginal Dryness, Mood Swings, Joint Pain, Trouble Sleeping, Hot Flashes","cluster":4}
+{"age":45,"location":"Oakville","symptoms":"Mood Swings","cluster":3}
+{"age":53,"location":"Ajax","symptoms":"Trouble Sleeping, Mood Swings, Weight Gain, Joint Pain, Hot Flashes, Night Sweats","cluster":0}
+{"age":41,"location":"Pickering","symptoms":"Weight Gain, Joint Pain, Mood Swings, Urinary Issues, Memory Problems, Hot Flashes, Vaginal Dryness, Trouble Sleeping","cluster":1}
+{"age":48,"location":"Ajax","symptoms":"Mood Swings, Urinary Issues","cluster":3}
+{"age":48,"location":"Brampton","symptoms":"Memory Problems, Trouble Sleeping, Mood Swings","cluster":3}
+{"age":54,"location":"Toronto","symptoms":"Night Sweats, Mood Swings, Vaginal Dryness, Hot Flashes, Weight Gain, Joint Pain, Trouble Sleeping, Memory Problems, Urinary Issues","cluster":0}
+{"age":53,"location":"Brampton","symptoms":"Mood Swings, Vaginal Dryness, Night Sweats, Trouble Sleeping, Memory Problems","cluster":0}
+{"age":42,"location":"Markham","symptoms":"Weight Gain, Night Sweats, Vaginal Dryness, Joint Pain, Urinary Issues, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":43,"location":"Pickering","symptoms":"Hot Flashes, Vaginal Dryness, Trouble Sleeping, Night Sweats, Memory Problems","cluster":1}
+{"age":48,"location":"Ajax","symptoms":"Urinary Issues, Joint Pain, Night Sweats, Vaginal Dryness, Memory Problems, Weight Gain","cluster":3}
+{"age":48,"location":"Vaughan","symptoms":"Mood Swings, Trouble Sleeping, Hot Flashes, Night Sweats","cluster":3}
+{"age":58,"location":"Richmond Hill","symptoms":"Mood Swings, Trouble Sleeping, Night Sweats, Hot Flashes","cluster":2}
+{"age":44,"location":"Whitby","symptoms":"Urinary Issues, Joint Pain, Hot Flashes, Trouble Sleeping, Weight Gain, Vaginal Dryness","cluster":1}
+{"age":40,"location":"Newmarket","symptoms":"Urinary Issues, Joint Pain, Trouble Sleeping, Vaginal Dryness, Night Sweats, Mood Swings, Hot Flashes, Weight Gain, Memory Problems","cluster":1}
+{"age":46,"location":"Whitby","symptoms":"Memory Problems, Mood Swings, Trouble Sleeping, Urinary Issues, Joint Pain","cluster":3}
+{"age":52,"location":"Markham","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping, Mood Swings, Hot Flashes, Memory Problems, Night Sweats, Joint Pain","cluster":0}
+{"age":59,"location":"Aurora","symptoms":"Weight Gain, Urinary Issues, Vaginal Dryness, Night Sweats","cluster":2}
+{"age":41,"location":"Vaughan","symptoms":"Trouble Sleeping, Mood Swings","cluster":1}
+{"age":60,"location":"Whitby","symptoms":"Mood Swings, Vaginal Dryness, Night Sweats, Hot Flashes, Urinary Issues, Weight Gain","cluster":2}
+{"age":48,"location":"Vaughan","symptoms":"Urinary Issues, Memory Problems, Hot Flashes, Joint Pain, Weight Gain, Mood Swings","cluster":3}
+{"age":42,"location":"Oakville","symptoms":"Weight Gain","cluster":1}
+{"age":43,"location":"Mississauga","symptoms":"Hot Flashes, Weight Gain, Night Sweats, Vaginal Dryness, Memory Problems, Trouble Sleeping, Joint Pain, Mood Swings, Urinary Issues","cluster":1}
+{"age":49,"location":"Oakville","symptoms":"Memory Problems, Mood Swings, Weight Gain, Joint Pain","cluster":3}
+{"age":49,"location":"Pickering","symptoms":"Trouble Sleeping, Mood Swings, Night Sweats, Memory Problems, Joint Pain, Hot Flashes, Vaginal Dryness, Weight Gain","cluster":3}
+{"age":55,"location":"Brampton","symptoms":"Mood Swings, Urinary Issues, Memory Problems, Hot Flashes, Weight Gain, Night Sweats, Joint Pain, Trouble Sleeping","cluster":4}
+{"age":55,"location":"Markham","symptoms":"Vaginal Dryness","cluster":4}
+{"age":47,"location":"Markham","symptoms":"Hot Flashes, Mood Swings, Joint Pain, Vaginal Dryness","cluster":3}
+{"age":50,"location":"Vaughan","symptoms":"Vaginal Dryness, Trouble Sleeping, Mood Swings","cluster":0}
+{"age":42,"location":"Mississauga","symptoms":"Memory Problems, Urinary Issues","cluster":1}
+{"age":53,"location":"Burlington","symptoms":"Weight Gain, Urinary Issues, Trouble Sleeping","cluster":0}
+{"age":56,"location":"Burlington","symptoms":"Urinary Issues, Weight Gain, Hot Flashes, Memory Problems, Night Sweats, Trouble Sleeping, Joint Pain, Mood Swings","cluster":4}
+{"age":52,"location":"Pickering","symptoms":"Vaginal Dryness, Trouble Sleeping, Mood Swings, Joint Pain, Memory Problems, Night Sweats","cluster":0}
+{"age":42,"location":"Aurora","symptoms":"Night Sweats, Weight Gain","cluster":1}
+{"age":48,"location":"Whitby","symptoms":"Joint Pain","cluster":3}
+{"age":54,"location":"Vaughan","symptoms":"Urinary Issues, Weight Gain, Night Sweats, Joint Pain","cluster":0}
+{"age":49,"location":"Markham","symptoms":"Trouble Sleeping, Memory Problems, Weight Gain, Hot Flashes, Urinary Issues, Mood Swings, Night Sweats","cluster":3}
+{"age":59,"location":"Vaughan","symptoms":"Trouble Sleeping, Weight Gain","cluster":2}
+{"age":54,"location":"Oakville","symptoms":"Hot Flashes, Mood Swings, Night Sweats, Joint Pain, Vaginal Dryness","cluster":0}
+{"age":59,"location":"Toronto","symptoms":"Vaginal Dryness, Hot Flashes","cluster":2}
+{"age":53,"location":"Vaughan","symptoms":"Weight Gain, Hot Flashes, Memory Problems, Vaginal Dryness, Urinary Issues, Joint Pain","cluster":0}
+{"age":46,"location":"Milton","symptoms":"Trouble Sleeping, Mood Swings","cluster":3}
+{"age":44,"location":"Vaughan","symptoms":"Weight Gain, Mood Swings, Trouble Sleeping, Urinary Issues, Vaginal Dryness","cluster":1}
+{"age":49,"location":"Oakville","symptoms":"Hot Flashes, Memory Problems, Urinary Issues","cluster":3}
+{"age":58,"location":"Richmond Hill","symptoms":"Night Sweats, Mood Swings, Memory Problems","cluster":2}
+{"age":58,"location":"Whitby","symptoms":"Joint Pain, Night Sweats, Weight Gain","cluster":2}
+{"age":40,"location":"Oakville","symptoms":"Weight Gain, Joint Pain, Vaginal Dryness, Urinary Issues, Trouble Sleeping, Hot Flashes, Mood Swings, Night Sweats","cluster":1}
+{"age":43,"location":"Pickering","symptoms":"Vaginal Dryness, Trouble Sleeping, Night Sweats, Memory Problems, Joint Pain, Hot Flashes, Mood Swings, Weight Gain, Urinary Issues","cluster":1}
+{"age":56,"location":"Markham","symptoms":"Trouble Sleeping, Weight Gain, Night Sweats, Memory Problems, Urinary Issues, Vaginal Dryness, Hot Flashes","cluster":4}
+{"age":50,"location":"Vaughan","symptoms":"Mood Swings, Trouble Sleeping, Joint Pain, Weight Gain, Memory Problems, Vaginal Dryness, Hot Flashes, Urinary Issues","cluster":0}
+{"age":46,"location":"Whitby","symptoms":"Trouble Sleeping, Mood Swings, Night Sweats","cluster":3}
+{"age":50,"location":"Ajax","symptoms":"Weight Gain, Trouble Sleeping, Night Sweats, Hot Flashes, Memory Problems, Urinary Issues","cluster":0}
+{"age":55,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Urinary Issues, Joint Pain, Mood Swings, Weight Gain, Memory Problems, Night Sweats, Hot Flashes, Vaginal Dryness","cluster":4}
+{"age":57,"location":"Whitby","symptoms":"Memory Problems, Mood Swings, Night Sweats, Weight Gain, Vaginal Dryness, Hot Flashes","cluster":4}
+{"age":43,"location":"Markham","symptoms":"Memory Problems, Night Sweats, Hot Flashes, Urinary Issues, Weight Gain, Joint Pain, Trouble Sleeping","cluster":1}
+{"age":43,"location":"Newmarket","symptoms":"Mood Swings, Night Sweats, Trouble Sleeping, Memory Problems, Vaginal Dryness, Weight Gain","cluster":1}
+{"age":50,"location":"Aurora","symptoms":"Memory Problems, Vaginal Dryness, Hot Flashes, Joint Pain, Night Sweats, Trouble Sleeping, Weight Gain","cluster":0}
+{"age":42,"location":"Ajax","symptoms":"Vaginal Dryness, Weight Gain, Memory Problems, Hot Flashes, Night Sweats, Joint Pain, Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":47,"location":"Brampton","symptoms":"Trouble Sleeping","cluster":3}
+{"age":50,"location":"Markham","symptoms":"Night Sweats, Mood Swings, Vaginal Dryness, Urinary Issues, Memory Problems, Hot Flashes, Weight Gain, Trouble Sleeping","cluster":0}
+{"age":54,"location":"Vaughan","symptoms":"Hot Flashes","cluster":0}
+{"age":48,"location":"Burlington","symptoms":"Night Sweats, Trouble Sleeping","cluster":3}
+{"age":50,"location":"Aurora","symptoms":"Joint Pain, Vaginal Dryness, Mood Swings","cluster":0}
+{"age":49,"location":"Markham","symptoms":"Memory Problems, Mood Swings, Hot Flashes, Urinary Issues, Trouble Sleeping, Night Sweats","cluster":3}
+{"age":60,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Weight Gain, Joint Pain, Memory Problems","cluster":2}
+{"age":41,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Vaginal Dryness, Mood Swings, Memory Problems, Urinary Issues, Hot Flashes","cluster":1}
+{"age":45,"location":"Burlington","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues, Hot Flashes, Memory Problems, Vaginal Dryness, Weight Gain, Mood Swings, Night Sweats","cluster":3}
+{"age":47,"location":"Toronto","symptoms":"Vaginal Dryness, Mood Swings, Weight Gain, Urinary Issues, Memory Problems, Joint Pain","cluster":3}
+{"age":60,"location":"Ajax","symptoms":"Joint Pain, Mood Swings, Night Sweats, Urinary Issues, Memory Problems, Weight Gain, Hot Flashes, Vaginal Dryness","cluster":2}
+{"age":41,"location":"Brampton","symptoms":"Mood Swings, Urinary Issues, Vaginal Dryness, Joint Pain","cluster":1}
+{"age":53,"location":"Pickering","symptoms":"Mood Swings, Memory Problems, Vaginal Dryness, Weight Gain, Hot Flashes, Trouble Sleeping, Urinary Issues, Joint Pain, Night Sweats","cluster":0}
+{"age":59,"location":"Whitby","symptoms":"Night Sweats","cluster":2}
+{"age":42,"location":"Markham","symptoms":"Vaginal Dryness, Trouble Sleeping, Weight Gain, Joint Pain, Urinary Issues, Hot Flashes","cluster":1}
+{"age":59,"location":"Whitby","symptoms":"Joint Pain, Memory Problems, Night Sweats, Hot Flashes, Vaginal Dryness, Trouble Sleeping, Urinary Issues, Mood Swings","cluster":2}
+{"age":41,"location":"Milton","symptoms":"Vaginal Dryness, Mood Swings, Memory Problems, Joint Pain, Hot Flashes, Trouble Sleeping, Weight Gain, Night Sweats","cluster":1}
+{"age":47,"location":"Oakville","symptoms":"Hot Flashes, Vaginal Dryness, Trouble Sleeping, Mood Swings, Urinary Issues, Memory Problems, Night Sweats, Joint Pain","cluster":3}
+{"age":52,"location":"Whitby","symptoms":"Night Sweats","cluster":0}
+{"age":58,"location":"Newmarket","symptoms":"Weight Gain, Joint Pain","cluster":2}
+{"age":46,"location":"Whitby","symptoms":"Mood Swings, Joint Pain, Urinary Issues, Night Sweats, Weight Gain","cluster":3}
+{"age":60,"location":"Toronto","symptoms":"Mood Swings, Urinary Issues","cluster":2}
+{"age":51,"location":"Brampton","symptoms":"Joint Pain, Trouble Sleeping","cluster":0}
+{"age":58,"location":"Mississauga","symptoms":"Mood Swings, Urinary Issues, Night Sweats, Weight Gain, Hot Flashes","cluster":2}
+{"age":51,"location":"Markham","symptoms":"Weight Gain, Urinary Issues","cluster":0}
+{"age":50,"location":"Vaughan","symptoms":"Mood Swings, Night Sweats, Vaginal Dryness","cluster":0}
+{"age":58,"location":"Richmond Hill","symptoms":"Mood Swings, Memory Problems, Joint Pain, Weight Gain","cluster":2}
+{"age":40,"location":"Markham","symptoms":"Memory Problems, Mood Swings, Joint Pain, Trouble Sleeping","cluster":1}
+{"age":56,"location":"Brampton","symptoms":"Mood Swings","cluster":4}
+{"age":56,"location":"Burlington","symptoms":"Hot Flashes, Mood Swings, Memory Problems","cluster":4}
+{"age":54,"location":"Burlington","symptoms":"Urinary Issues, Trouble Sleeping, Mood Swings, Joint Pain, Hot Flashes","cluster":0}
+{"age":51,"location":"Toronto","symptoms":"Weight Gain, Joint Pain","cluster":0}
+{"age":41,"location":"Milton","symptoms":"Urinary Issues, Hot Flashes, Night Sweats, Memory Problems, Joint Pain, Weight Gain, Vaginal Dryness, Mood Swings, Trouble Sleeping","cluster":1}
+{"age":46,"location":"Oakville","symptoms":"Trouble Sleeping, Mood Swings, Night Sweats, Memory Problems, Joint Pain","cluster":3}
+{"age":55,"location":"Oakville","symptoms":"Hot Flashes, Trouble Sleeping, Mood Swings, Vaginal Dryness, Weight Gain","cluster":4}
+{"age":40,"location":"Aurora","symptoms":"Weight Gain, Memory Problems, Mood Swings, Urinary Issues, Night Sweats, Trouble Sleeping","cluster":1}
+{"age":41,"location":"Toronto","symptoms":"Weight Gain, Joint Pain, Urinary Issues, Trouble Sleeping, Vaginal Dryness, Night Sweats, Memory Problems, Hot Flashes","cluster":1}
+{"age":55,"location":"Markham","symptoms":"Mood Swings","cluster":4}
+{"age":42,"location":"Pickering","symptoms":"Night Sweats, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":52,"location":"Vaughan","symptoms":"Joint Pain, Vaginal Dryness, Hot Flashes, Night Sweats, Urinary Issues, Weight Gain","cluster":0}
+{"age":53,"location":"Burlington","symptoms":"Joint Pain, Weight Gain","cluster":0}
+{"age":42,"location":"Oakville","symptoms":"Hot Flashes, Mood Swings, Joint Pain, Weight Gain, Vaginal Dryness, Memory Problems, Urinary Issues, Trouble Sleeping, Night Sweats","cluster":1}
+{"age":40,"location":"Burlington","symptoms":"Weight Gain, Mood Swings, Night Sweats, Hot Flashes, Trouble Sleeping, Memory Problems, Vaginal Dryness, Urinary Issues","cluster":1}
+{"age":60,"location":"Vaughan","symptoms":"Mood Swings, Night Sweats, Hot Flashes, Urinary Issues, Trouble Sleeping","cluster":2}
+{"age":53,"location":"Vaughan","symptoms":"Trouble Sleeping, Hot Flashes, Mood Swings, Urinary Issues, Memory Problems, Vaginal Dryness, Joint Pain","cluster":0}
+{"age":42,"location":"Markham","symptoms":"Joint Pain, Mood Swings, Urinary Issues, Weight Gain, Vaginal Dryness, Trouble Sleeping, Memory Problems","cluster":1}
+{"age":60,"location":"Aurora","symptoms":"Weight Gain, Memory Problems, Night Sweats, Urinary Issues, Hot Flashes, Mood Swings, Joint Pain, Vaginal Dryness","cluster":2}
+{"age":60,"location":"Vaughan","symptoms":"Weight Gain, Joint Pain, Memory Problems, Mood Swings, Trouble Sleeping","cluster":2}
+{"age":41,"location":"Brampton","symptoms":"Joint Pain","cluster":1}
+{"age":54,"location":"Whitby","symptoms":"Hot Flashes, Memory Problems, Night Sweats, Vaginal Dryness, Weight Gain, Urinary Issues, Trouble Sleeping, Joint Pain","cluster":0}
+{"age":43,"location":"Newmarket","symptoms":"Weight Gain, Hot Flashes, Joint Pain, Vaginal Dryness, Night Sweats, Mood Swings","cluster":1}
+{"age":42,"location":"Ajax","symptoms":"Weight Gain, Hot Flashes, Trouble Sleeping, Mood Swings, Night Sweats, Memory Problems, Joint Pain, Urinary Issues","cluster":1}
+{"age":46,"location":"Oakville","symptoms":"Mood Swings, Trouble Sleeping, Night Sweats, Vaginal Dryness","cluster":3}
+{"age":55,"location":"Whitby","symptoms":"Joint Pain, Trouble Sleeping, Memory Problems, Hot Flashes, Mood Swings, Weight Gain","cluster":4}
+{"age":42,"location":"Oakville","symptoms":"Memory Problems, Mood Swings","cluster":1}
+{"age":60,"location":"Whitby","symptoms":"Night Sweats, Urinary Issues, Mood Swings, Weight Gain, Vaginal Dryness, Hot Flashes, Trouble Sleeping, Joint Pain","cluster":2}
+{"age":46,"location":"Burlington","symptoms":"Mood Swings, Urinary Issues, Weight Gain, Hot Flashes, Night Sweats, Trouble Sleeping","cluster":3}
+{"age":49,"location":"Whitby","symptoms":"Night Sweats","cluster":3}
+{"age":47,"location":"Brampton","symptoms":"Memory Problems, Vaginal Dryness, Hot Flashes","cluster":3}
+{"age":45,"location":"Pickering","symptoms":"Night Sweats, Urinary Issues, Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":58,"location":"Oakville","symptoms":"Urinary Issues, Hot Flashes, Weight Gain, Vaginal Dryness, Joint Pain, Mood Swings","cluster":2}
+{"age":47,"location":"Newmarket","symptoms":"Trouble Sleeping, Urinary Issues, Weight Gain, Memory Problems","cluster":3}
+{"age":58,"location":"Pickering","symptoms":"Vaginal Dryness, Weight Gain, Urinary Issues","cluster":2}
+{"age":52,"location":"Milton","symptoms":"Vaginal Dryness, Hot Flashes","cluster":0}
+{"age":58,"location":"Whitby","symptoms":"Joint Pain, Urinary Issues, Trouble Sleeping, Hot Flashes, Memory Problems","cluster":2}
+{"age":45,"location":"Milton","symptoms":"Joint Pain, Urinary Issues, Mood Swings, Night Sweats","cluster":3}
+{"age":56,"location":"Newmarket","symptoms":"Hot Flashes, Vaginal Dryness, Memory Problems, Joint Pain, Weight Gain, Urinary Issues, Night Sweats, Trouble Sleeping","cluster":4}
+{"age":49,"location":"Ajax","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues","cluster":3}
+{"age":56,"location":"Oakville","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping, Hot Flashes, Mood Swings, Memory Problems, Urinary Issues, Joint Pain, Night Sweats","cluster":4}
+{"age":58,"location":"Ajax","symptoms":"Vaginal Dryness, Memory Problems, Mood Swings, Joint Pain, Urinary Issues, Night Sweats","cluster":2}
+{"age":55,"location":"Pickering","symptoms":"Weight Gain, Mood Swings, Memory Problems, Hot Flashes, Night Sweats, Vaginal Dryness, Trouble Sleeping, Joint Pain, Urinary Issues","cluster":4}
+{"age":59,"location":"Toronto","symptoms":"Trouble Sleeping, Mood Swings","cluster":2}
+{"age":57,"location":"Ajax","symptoms":"Weight Gain, Mood Swings, Vaginal Dryness, Urinary Issues, Memory Problems, Trouble Sleeping, Night Sweats, Hot Flashes, Joint Pain","cluster":4}
+{"age":55,"location":"Mississauga","symptoms":"Trouble Sleeping, Memory Problems, Weight Gain, Joint Pain, Urinary Issues","cluster":4}
+{"age":47,"location":"Milton","symptoms":"Weight Gain, Hot Flashes","cluster":3}
+{"age":40,"location":"Burlington","symptoms":"Memory Problems, Weight Gain, Vaginal Dryness, Night Sweats, Joint Pain, Mood Swings, Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":42,"location":"Vaughan","symptoms":"Weight Gain, Hot Flashes, Joint Pain","cluster":1}
+{"age":40,"location":"Ajax","symptoms":"Joint Pain, Urinary Issues, Vaginal Dryness","cluster":1}
+{"age":44,"location":"Oakville","symptoms":"Joint Pain, Night Sweats, Weight Gain, Hot Flashes, Urinary Issues, Memory Problems, Mood Swings, Trouble Sleeping, Vaginal Dryness","cluster":1}
+{"age":57,"location":"Whitby","symptoms":"Night Sweats, Hot Flashes, Joint Pain, Weight Gain, Memory Problems, Mood Swings, Trouble Sleeping","cluster":4}
+{"age":53,"location":"Milton","symptoms":"Vaginal Dryness, Mood Swings, Trouble Sleeping, Hot Flashes, Joint Pain, Night Sweats, Weight Gain, Memory Problems","cluster":0}
+{"age":52,"location":"Whitby","symptoms":"Vaginal Dryness, Night Sweats, Trouble Sleeping, Memory Problems, Weight Gain, Mood Swings, Urinary Issues, Joint Pain","cluster":0}
+{"age":42,"location":"Mississauga","symptoms":"Night Sweats, Trouble Sleeping, Hot Flashes, Weight Gain, Urinary Issues, Joint Pain","cluster":1}
+{"age":60,"location":"Pickering","symptoms":"Urinary Issues, Hot Flashes","cluster":2}
+{"age":49,"location":"Aurora","symptoms":"Urinary Issues, Memory Problems, Night Sweats, Joint Pain, Weight Gain, Vaginal Dryness","cluster":3}
+{"age":55,"location":"Toronto","symptoms":"Hot Flashes","cluster":4}
+{"age":59,"location":"Burlington","symptoms":"Urinary Issues, Mood Swings, Joint Pain, Hot Flashes, Weight Gain, Night Sweats","cluster":2}
+{"age":53,"location":"Pickering","symptoms":"Night Sweats, Weight Gain","cluster":0}
+{"age":41,"location":"Aurora","symptoms":"Night Sweats, Weight Gain, Memory Problems","cluster":1}
+{"age":53,"location":"Pickering","symptoms":"Night Sweats","cluster":0}
+{"age":60,"location":"Aurora","symptoms":"Hot Flashes, Vaginal Dryness, Mood Swings, Joint Pain, Memory Problems, Weight Gain, Urinary Issues","cluster":2}
+{"age":56,"location":"Aurora","symptoms":"Memory Problems, Trouble Sleeping","cluster":4}
+{"age":57,"location":"Milton","symptoms":"Weight Gain, Mood Swings, Memory Problems, Urinary Issues, Vaginal Dryness, Night Sweats, Hot Flashes","cluster":4}
+{"age":53,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Memory Problems, Hot Flashes, Night Sweats, Joint Pain, Urinary Issues, Mood Swings, Weight Gain, Trouble Sleeping","cluster":0}
+{"age":43,"location":"Pickering","symptoms":"Urinary Issues, Trouble Sleeping, Hot Flashes, Joint Pain, Vaginal Dryness, Mood Swings, Night Sweats, Weight Gain, Memory Problems","cluster":1}
+{"age":52,"location":"Toronto","symptoms":"Vaginal Dryness, Trouble Sleeping, Joint Pain, Memory Problems, Hot Flashes, Night Sweats","cluster":0}
+{"age":53,"location":"Aurora","symptoms":"Hot Flashes, Memory Problems, Mood Swings, Urinary Issues, Joint Pain, Weight Gain, Vaginal Dryness, Night Sweats","cluster":0}
+{"age":59,"location":"Ajax","symptoms":"Weight Gain, Hot Flashes","cluster":2}
+{"age":43,"location":"Oakville","symptoms":"Hot Flashes, Vaginal Dryness, Mood Swings, Joint Pain, Memory Problems, Night Sweats, Urinary Issues, Weight Gain, Trouble Sleeping","cluster":1}
+{"age":49,"location":"Oakville","symptoms":"Trouble Sleeping, Urinary Issues, Night Sweats, Joint Pain, Weight Gain","cluster":3}
+{"age":46,"location":"Vaughan","symptoms":"Mood Swings, Vaginal Dryness, Night Sweats, Urinary Issues, Weight Gain","cluster":3}
+{"age":50,"location":"Toronto","symptoms":"Night Sweats, Memory Problems, Weight Gain, Urinary Issues","cluster":0}
+{"age":58,"location":"Oakville","symptoms":"Urinary Issues, Joint Pain, Memory Problems","cluster":2}
+{"age":46,"location":"Richmond Hill","symptoms":"Weight Gain, Vaginal Dryness, Joint Pain, Mood Swings, Urinary Issues","cluster":3}
+{"age":43,"location":"Ajax","symptoms":"Night Sweats, Mood Swings, Memory Problems, Hot Flashes, Joint Pain, Weight Gain, Trouble Sleeping","cluster":1}
+{"age":51,"location":"Toronto","symptoms":"Trouble Sleeping, Memory Problems, Night Sweats, Urinary Issues","cluster":0}
+{"age":53,"location":"Ajax","symptoms":"Weight Gain, Night Sweats, Vaginal Dryness, Memory Problems, Trouble Sleeping, Joint Pain, Hot Flashes, Mood Swings","cluster":0}
+{"age":48,"location":"Ajax","symptoms":"Mood Swings, Trouble Sleeping, Vaginal Dryness, Memory Problems, Weight Gain, Joint Pain, Urinary Issues","cluster":3}
+{"age":60,"location":"Newmarket","symptoms":"Memory Problems, Urinary Issues, Joint Pain, Mood Swings, Night Sweats, Trouble Sleeping","cluster":2}
+{"age":44,"location":"Toronto","symptoms":"Urinary Issues, Memory Problems, Hot Flashes, Vaginal Dryness, Night Sweats, Weight Gain, Joint Pain, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":60,"location":"Pickering","symptoms":"Mood Swings, Memory Problems, Weight Gain, Joint Pain, Vaginal Dryness, Hot Flashes, Trouble Sleeping","cluster":2}
+{"age":44,"location":"Markham","symptoms":"Vaginal Dryness, Weight Gain, Trouble Sleeping, Urinary Issues, Joint Pain, Mood Swings","cluster":1}
+{"age":56,"location":"Richmond Hill","symptoms":"Hot Flashes, Night Sweats, Memory Problems","cluster":4}
+{"age":53,"location":"Richmond Hill","symptoms":"Hot Flashes, Weight Gain, Trouble Sleeping, Joint Pain, Night Sweats","cluster":0}
+{"age":47,"location":"Aurora","symptoms":"Urinary Issues","cluster":3}
+{"age":56,"location":"Toronto","symptoms":"Vaginal Dryness, Mood Swings, Hot Flashes, Urinary Issues","cluster":4}
+{"age":51,"location":"Milton","symptoms":"Weight Gain, Joint Pain, Night Sweats, Trouble Sleeping, Hot Flashes","cluster":0}
+{"age":51,"location":"Burlington","symptoms":"Mood Swings, Vaginal Dryness, Hot Flashes, Night Sweats","cluster":0}
+{"age":53,"location":"Toronto","symptoms":"Weight Gain, Memory Problems, Joint Pain, Urinary Issues, Vaginal Dryness, Night Sweats, Hot Flashes, Mood Swings, Trouble Sleeping","cluster":0}
+{"age":52,"location":"Whitby","symptoms":"Weight Gain, Vaginal Dryness, Memory Problems, Mood Swings, Night Sweats, Trouble Sleeping","cluster":0}
+{"age":41,"location":"Mississauga","symptoms":"Weight Gain, Urinary Issues, Night Sweats","cluster":1}
+{"age":47,"location":"Markham","symptoms":"Joint Pain, Hot Flashes, Mood Swings, Vaginal Dryness","cluster":3}
+{"age":42,"location":"Brampton","symptoms":"Night Sweats, Hot Flashes, Memory Problems, Vaginal Dryness, Weight Gain, Urinary Issues, Trouble Sleeping, Joint Pain","cluster":1}
+{"age":56,"location":"Brampton","symptoms":"Trouble Sleeping, Hot Flashes, Urinary Issues, Night Sweats, Joint Pain, Weight Gain, Memory Problems, Mood Swings, Vaginal Dryness","cluster":4}
+{"age":51,"location":"Mississauga","symptoms":"Weight Gain, Urinary Issues, Memory Problems","cluster":0}
+{"age":56,"location":"Markham","symptoms":"Vaginal Dryness, Weight Gain, Trouble Sleeping","cluster":4}
+{"age":41,"location":"Mississauga","symptoms":"Joint Pain, Weight Gain, Trouble Sleeping, Hot Flashes, Urinary Issues, Mood Swings","cluster":1}
+{"age":43,"location":"Brampton","symptoms":"Urinary Issues, Trouble Sleeping, Hot Flashes, Mood Swings, Joint Pain, Night Sweats, Weight Gain, Vaginal Dryness","cluster":1}
+{"age":59,"location":"Newmarket","symptoms":"Mood Swings, Vaginal Dryness, Weight Gain, Memory Problems, Hot Flashes","cluster":2}
+{"age":55,"location":"Toronto","symptoms":"Memory Problems, Weight Gain, Joint Pain, Urinary Issues, Mood Swings, Hot Flashes, Vaginal Dryness, Trouble Sleeping, Night Sweats","cluster":4}
+{"age":53,"location":"Milton","symptoms":"Weight Gain, Night Sweats, Joint Pain, Trouble Sleeping, Hot Flashes, Urinary Issues","cluster":0}
+{"age":49,"location":"Mississauga","symptoms":"Trouble Sleeping, Hot Flashes, Joint Pain, Mood Swings, Vaginal Dryness, Memory Problems, Urinary Issues, Weight Gain","cluster":3}
+{"age":56,"location":"Burlington","symptoms":"Weight Gain, Hot Flashes, Vaginal Dryness","cluster":4}
+{"age":42,"location":"Toronto","symptoms":"Weight Gain, Hot Flashes, Night Sweats, Urinary Issues, Mood Swings, Vaginal Dryness","cluster":1}
+{"age":58,"location":"Milton","symptoms":"Trouble Sleeping, Hot Flashes, Mood Swings, Joint Pain, Urinary Issues","cluster":2}
+{"age":46,"location":"Pickering","symptoms":"Urinary Issues, Weight Gain, Memory Problems, Vaginal Dryness, Hot Flashes, Trouble Sleeping, Joint Pain, Mood Swings, Night Sweats","cluster":3}
+{"age":48,"location":"Milton","symptoms":"Weight Gain, Mood Swings","cluster":3}
+{"age":56,"location":"Newmarket","symptoms":"Mood Swings, Joint Pain, Hot Flashes, Night Sweats","cluster":4}
+{"age":44,"location":"Mississauga","symptoms":"Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":54,"location":"Richmond Hill","symptoms":"Mood Swings, Trouble Sleeping, Vaginal Dryness, Weight Gain, Urinary Issues","cluster":0}
+{"age":49,"location":"Vaughan","symptoms":"Memory Problems, Trouble Sleeping, Urinary Issues, Mood Swings","cluster":3}
+{"age":53,"location":"Pickering","symptoms":"Urinary Issues, Hot Flashes, Joint Pain","cluster":0}
+{"age":47,"location":"Milton","symptoms":"Vaginal Dryness","cluster":3}
+{"age":47,"location":"Burlington","symptoms":"Trouble Sleeping, Hot Flashes, Joint Pain, Weight Gain, Night Sweats","cluster":3}
+{"age":44,"location":"Milton","symptoms":"Trouble Sleeping, Mood Swings","cluster":1}
+{"age":60,"location":"Markham","symptoms":"Joint Pain, Night Sweats, Memory Problems","cluster":2}
+{"age":57,"location":"Aurora","symptoms":"Trouble Sleeping, Weight Gain, Mood Swings, Hot Flashes, Night Sweats, Joint Pain","cluster":4}
+{"age":45,"location":"Ajax","symptoms":"Vaginal Dryness, Mood Swings, Trouble Sleeping, Joint Pain, Weight Gain","cluster":3}
+{"age":43,"location":"Ajax","symptoms":"Hot Flashes","cluster":1}
+{"age":42,"location":"Brampton","symptoms":"Hot Flashes, Night Sweats, Memory Problems","cluster":1}
+{"age":48,"location":"Newmarket","symptoms":"Night Sweats, Hot Flashes","cluster":3}
+{"age":47,"location":"Mississauga","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping, Night Sweats","cluster":3}
+{"age":54,"location":"Oakville","symptoms":"Night Sweats, Vaginal Dryness, Trouble Sleeping, Urinary Issues","cluster":0}
+{"age":57,"location":"Mississauga","symptoms":"Memory Problems, Joint Pain, Trouble Sleeping, Hot Flashes, Vaginal Dryness","cluster":4}
+{"age":45,"location":"Pickering","symptoms":"Vaginal Dryness, Hot Flashes, Night Sweats, Trouble Sleeping","cluster":3}
+{"age":57,"location":"Toronto","symptoms":"Memory Problems, Urinary Issues, Trouble Sleeping, Night Sweats, Vaginal Dryness, Weight Gain, Hot Flashes, Mood Swings","cluster":4}
+{"age":40,"location":"Newmarket","symptoms":"Mood Swings, Urinary Issues, Vaginal Dryness","cluster":1}
+{"age":50,"location":"Brampton","symptoms":"Night Sweats, Weight Gain, Urinary Issues, Memory Problems, Hot Flashes","cluster":0}
+{"age":55,"location":"Vaughan","symptoms":"Vaginal Dryness, Memory Problems, Night Sweats, Joint Pain, Mood Swings, Weight Gain, Urinary Issues, Trouble Sleeping","cluster":4}
+{"age":59,"location":"Milton","symptoms":"Weight Gain, Mood Swings, Joint Pain, Memory Problems, Urinary Issues, Night Sweats, Hot Flashes, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":41,"location":"Markham","symptoms":"Mood Swings, Memory Problems","cluster":1}
+{"age":52,"location":"Oakville","symptoms":"Joint Pain, Mood Swings, Trouble Sleeping, Weight Gain, Night Sweats, Hot Flashes, Urinary Issues","cluster":0}
+{"age":52,"location":"Mississauga","symptoms":"Night Sweats, Vaginal Dryness, Urinary Issues","cluster":0}
+{"age":46,"location":"Toronto","symptoms":"Night Sweats, Memory Problems","cluster":3}
+{"age":53,"location":"Markham","symptoms":"Hot Flashes, Vaginal Dryness, Joint Pain, Night Sweats","cluster":0}
+{"age":48,"location":"Richmond Hill","symptoms":"Joint Pain, Memory Problems, Night Sweats, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":53,"location":"Brampton","symptoms":"Memory Problems, Mood Swings, Hot Flashes, Vaginal Dryness","cluster":0}
+{"age":47,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Urinary Issues, Hot Flashes","cluster":3}
+{"age":52,"location":"Oakville","symptoms":"Memory Problems, Urinary Issues","cluster":0}
+{"age":60,"location":"Burlington","symptoms":"Weight Gain, Hot Flashes, Trouble Sleeping, Night Sweats, Vaginal Dryness, Memory Problems, Urinary Issues","cluster":2}
+{"age":44,"location":"Toronto","symptoms":"Memory Problems, Vaginal Dryness, Urinary Issues, Night Sweats, Trouble Sleeping, Weight Gain, Mood Swings, Hot Flashes, Joint Pain","cluster":1}
+{"age":43,"location":"Newmarket","symptoms":"Hot Flashes","cluster":1}
+{"age":51,"location":"Markham","symptoms":"Trouble Sleeping","cluster":0}
+{"age":57,"location":"Vaughan","symptoms":"Vaginal Dryness, Weight Gain, Trouble Sleeping","cluster":4}
+{"age":55,"location":"Vaughan","symptoms":"Mood Swings, Weight Gain, Memory Problems","cluster":4}
+{"age":45,"location":"Toronto","symptoms":"Hot Flashes, Trouble Sleeping, Vaginal Dryness, Mood Swings, Urinary Issues, Memory Problems, Night Sweats, Weight Gain, Joint Pain","cluster":3}
+{"age":53,"location":"Aurora","symptoms":"Hot Flashes, Vaginal Dryness, Joint Pain, Trouble Sleeping, Mood Swings, Memory Problems, Urinary Issues, Night Sweats","cluster":0}
+{"age":57,"location":"Burlington","symptoms":"Night Sweats, Weight Gain, Vaginal Dryness, Urinary Issues, Mood Swings, Trouble Sleeping, Memory Problems, Hot Flashes","cluster":4}
+{"age":44,"location":"Whitby","symptoms":"Mood Swings, Memory Problems, Urinary Issues, Joint Pain, Trouble Sleeping, Night Sweats","cluster":1}
+{"age":48,"location":"Milton","symptoms":"Weight Gain, Vaginal Dryness","cluster":3}
+{"age":58,"location":"Pickering","symptoms":"Trouble Sleeping","cluster":2}
+{"age":52,"location":"Mississauga","symptoms":"Vaginal Dryness, Joint Pain, Hot Flashes, Trouble Sleeping, Urinary Issues, Weight Gain, Night Sweats","cluster":0}
+{"age":55,"location":"Brampton","symptoms":"Memory Problems, Night Sweats","cluster":4}
+{"age":42,"location":"Markham","symptoms":"Night Sweats, Trouble Sleeping","cluster":1}
+{"age":60,"location":"Aurora","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues, Weight Gain, Memory Problems","cluster":2}
+{"age":54,"location":"Brampton","symptoms":"Hot Flashes, Trouble Sleeping, Night Sweats","cluster":0}
+{"age":50,"location":"Oakville","symptoms":"Trouble Sleeping, Hot Flashes","cluster":0}
+{"age":46,"location":"Newmarket","symptoms":"Memory Problems, Trouble Sleeping, Weight Gain, Mood Swings","cluster":3}
+{"age":53,"location":"Oakville","symptoms":"Urinary Issues, Vaginal Dryness, Memory Problems, Hot Flashes, Trouble Sleeping, Weight Gain","cluster":0}
+{"age":42,"location":"Ajax","symptoms":"Weight Gain, Mood Swings, Joint Pain, Urinary Issues, Memory Problems, Vaginal Dryness","cluster":1}
+{"age":46,"location":"Mississauga","symptoms":"Vaginal Dryness, Mood Swings, Night Sweats, Hot Flashes, Urinary Issues","cluster":3}
+{"age":50,"location":"Oakville","symptoms":"Night Sweats, Memory Problems, Urinary Issues, Hot Flashes, Weight Gain, Trouble Sleeping","cluster":0}
+{"age":56,"location":"Aurora","symptoms":"Mood Swings, Joint Pain, Memory Problems, Urinary Issues, Night Sweats, Vaginal Dryness, Hot Flashes","cluster":4}
+{"age":59,"location":"Aurora","symptoms":"Joint Pain, Vaginal Dryness","cluster":2}
+{"age":55,"location":"Pickering","symptoms":"Joint Pain, Weight Gain, Urinary Issues, Memory Problems, Night Sweats","cluster":4}
+{"age":56,"location":"Brampton","symptoms":"Vaginal Dryness, Urinary Issues, Hot Flashes, Weight Gain, Joint Pain","cluster":4}
+{"age":41,"location":"Richmond Hill","symptoms":"Joint Pain, Weight Gain, Trouble Sleeping, Night Sweats, Mood Swings, Vaginal Dryness, Hot Flashes, Memory Problems","cluster":1}
+{"age":58,"location":"Aurora","symptoms":"Night Sweats, Memory Problems, Joint Pain, Vaginal Dryness, Mood Swings, Trouble Sleeping, Urinary Issues, Hot Flashes","cluster":2}
+{"age":55,"location":"Oakville","symptoms":"Mood Swings, Night Sweats, Trouble Sleeping, Hot Flashes, Joint Pain, Vaginal Dryness, Memory Problems","cluster":4}
+{"age":56,"location":"Markham","symptoms":"Urinary Issues, Night Sweats, Trouble Sleeping, Vaginal Dryness, Joint Pain, Hot Flashes, Memory Problems, Weight Gain","cluster":4}
+{"age":45,"location":"Aurora","symptoms":"Memory Problems, Hot Flashes, Weight Gain, Mood Swings, Trouble Sleeping, Vaginal Dryness, Night Sweats, Joint Pain, Urinary Issues","cluster":3}
+{"age":46,"location":"Milton","symptoms":"Night Sweats, Urinary Issues, Weight Gain, Vaginal Dryness, Memory Problems, Joint Pain, Hot Flashes, Mood Swings, Trouble Sleeping","cluster":3}
+{"age":44,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Joint Pain, Urinary Issues, Trouble Sleeping, Memory Problems, Mood Swings, Weight Gain, Night Sweats","cluster":1}
+{"age":59,"location":"Toronto","symptoms":"Trouble Sleeping, Urinary Issues, Mood Swings, Night Sweats, Hot Flashes, Vaginal Dryness, Memory Problems, Weight Gain","cluster":2}
+{"age":58,"location":"Pickering","symptoms":"Urinary Issues, Mood Swings, Memory Problems, Joint Pain, Vaginal Dryness, Trouble Sleeping, Night Sweats","cluster":2}
+{"age":52,"location":"Mississauga","symptoms":"Mood Swings, Trouble Sleeping, Night Sweats","cluster":0}
+{"age":46,"location":"Markham","symptoms":"Memory Problems, Vaginal Dryness, Weight Gain, Urinary Issues, Trouble Sleeping, Mood Swings, Night Sweats","cluster":3}
+{"age":50,"location":"Milton","symptoms":"Vaginal Dryness, Urinary Issues, Mood Swings, Hot Flashes, Weight Gain, Memory Problems","cluster":0}
+{"age":46,"location":"Vaughan","symptoms":"Hot Flashes, Memory Problems, Trouble Sleeping","cluster":3}
+{"age":45,"location":"Ajax","symptoms":"Vaginal Dryness, Urinary Issues, Memory Problems, Night Sweats, Trouble Sleeping, Mood Swings","cluster":3}
+{"age":42,"location":"Aurora","symptoms":"Trouble Sleeping, Night Sweats, Urinary Issues, Vaginal Dryness, Mood Swings, Joint Pain","cluster":1}
+{"age":41,"location":"Ajax","symptoms":"Night Sweats, Vaginal Dryness, Weight Gain","cluster":1}
+{"age":55,"location":"Vaughan","symptoms":"Weight Gain, Joint Pain, Hot Flashes, Night Sweats, Vaginal Dryness, Trouble Sleeping, Urinary Issues, Mood Swings","cluster":4}
+{"age":47,"location":"Brampton","symptoms":"Mood Swings, Joint Pain, Memory Problems, Night Sweats","cluster":3}
+{"age":43,"location":"Toronto","symptoms":"Weight Gain","cluster":1}
+{"age":47,"location":"Brampton","symptoms":"Joint Pain, Mood Swings, Urinary Issues, Trouble Sleeping, Vaginal Dryness, Hot Flashes, Weight Gain","cluster":3}
+{"age":47,"location":"Whitby","symptoms":"Night Sweats, Memory Problems","cluster":3}
+{"age":58,"location":"Burlington","symptoms":"Urinary Issues, Joint Pain, Memory Problems, Vaginal Dryness, Night Sweats","cluster":2}
+{"age":50,"location":"Brampton","symptoms":"Night Sweats, Joint Pain, Weight Gain, Trouble Sleeping, Vaginal Dryness","cluster":0}
+{"age":59,"location":"Markham","symptoms":"Memory Problems, Night Sweats, Vaginal Dryness, Weight Gain, Hot Flashes","cluster":2}
+{"age":47,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Urinary Issues, Weight Gain, Hot Flashes","cluster":3}
+{"age":42,"location":"Burlington","symptoms":"Night Sweats, Hot Flashes, Mood Swings, Weight Gain, Trouble Sleeping, Memory Problems, Joint Pain, Urinary Issues, Vaginal Dryness","cluster":1}
+{"age":58,"location":"Toronto","symptoms":"Urinary Issues, Memory Problems, Trouble Sleeping, Mood Swings, Vaginal Dryness, Night Sweats, Hot Flashes, Joint Pain","cluster":2}
+{"age":44,"location":"Milton","symptoms":"Memory Problems, Joint Pain, Hot Flashes, Vaginal Dryness","cluster":1}
+{"age":60,"location":"Newmarket","symptoms":"Weight Gain, Memory Problems","cluster":2}
+{"age":50,"location":"Burlington","symptoms":"Joint Pain, Urinary Issues, Vaginal Dryness, Memory Problems, Mood Swings","cluster":0}
+{"age":44,"location":"Mississauga","symptoms":"Weight Gain, Mood Swings, Night Sweats, Hot Flashes, Memory Problems, Trouble Sleeping","cluster":1}
+{"age":40,"location":"Burlington","symptoms":"Urinary Issues, Trouble Sleeping, Mood Swings, Memory Problems, Hot Flashes, Weight Gain, Joint Pain, Night Sweats, Vaginal Dryness","cluster":1}
+{"age":40,"location":"Pickering","symptoms":"Urinary Issues, Night Sweats, Mood Swings","cluster":1}
+{"age":60,"location":"Vaughan","symptoms":"Memory Problems, Urinary Issues, Night Sweats, Trouble Sleeping, Weight Gain, Vaginal Dryness, Hot Flashes","cluster":2}
+{"age":58,"location":"Pickering","symptoms":"Vaginal Dryness, Weight Gain, Mood Swings, Joint Pain","cluster":2}
+{"age":49,"location":"Whitby","symptoms":"Joint Pain, Urinary Issues, Hot Flashes","cluster":3}
+{"age":52,"location":"Pickering","symptoms":"Urinary Issues, Vaginal Dryness, Night Sweats, Memory Problems, Trouble Sleeping, Weight Gain, Joint Pain, Hot Flashes","cluster":0}
+{"age":42,"location":"Brampton","symptoms":"Memory Problems, Urinary Issues, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":41,"location":"Whitby","symptoms":"Urinary Issues, Weight Gain","cluster":1}
+{"age":55,"location":"Vaughan","symptoms":"Hot Flashes, Joint Pain, Night Sweats, Vaginal Dryness, Trouble Sleeping, Weight Gain, Mood Swings","cluster":4}
+{"age":56,"location":"Vaughan","symptoms":"Mood Swings, Night Sweats, Urinary Issues, Weight Gain, Hot Flashes, Trouble Sleeping, Joint Pain","cluster":4}
+{"age":46,"location":"Mississauga","symptoms":"Hot Flashes, Weight Gain, Night Sweats, Mood Swings","cluster":3}
+{"age":43,"location":"Milton","symptoms":"Memory Problems, Hot Flashes, Mood Swings, Vaginal Dryness, Trouble Sleeping, Joint Pain, Night Sweats","cluster":1}
+{"age":54,"location":"Mississauga","symptoms":"Mood Swings, Hot Flashes, Joint Pain","cluster":0}
+{"age":53,"location":"Markham","symptoms":"Joint Pain, Urinary Issues, Vaginal Dryness, Weight Gain, Trouble Sleeping, Hot Flashes, Memory Problems, Mood Swings, Night Sweats","cluster":0}
+{"age":48,"location":"Pickering","symptoms":"Vaginal Dryness, Trouble Sleeping, Night Sweats, Joint Pain, Hot Flashes, Memory Problems, Urinary Issues","cluster":3}
+{"age":43,"location":"Vaughan","symptoms":"Memory Problems, Night Sweats","cluster":1}
+{"age":53,"location":"Mississauga","symptoms":"Memory Problems, Night Sweats, Hot Flashes, Weight Gain","cluster":0}
+{"age":52,"location":"Pickering","symptoms":"Urinary Issues, Memory Problems, Mood Swings, Hot Flashes, Weight Gain, Joint Pain, Night Sweats","cluster":0}
+{"age":56,"location":"Newmarket","symptoms":"Weight Gain, Joint Pain, Mood Swings, Urinary Issues, Memory Problems, Vaginal Dryness","cluster":4}
+{"age":40,"location":"Richmond Hill","symptoms":"Memory Problems, Hot Flashes, Night Sweats, Urinary Issues, Mood Swings","cluster":1}
+{"age":41,"location":"Burlington","symptoms":"Trouble Sleeping, Hot Flashes, Memory Problems, Mood Swings, Weight Gain, Night Sweats, Urinary Issues, Joint Pain","cluster":1}
+{"age":42,"location":"Pickering","symptoms":"Urinary Issues, Mood Swings, Night Sweats, Memory Problems, Joint Pain","cluster":1}
+{"age":40,"location":"Aurora","symptoms":"Memory Problems, Mood Swings, Joint Pain, Vaginal Dryness, Trouble Sleeping","cluster":1}
+{"age":47,"location":"Whitby","symptoms":"Mood Swings, Urinary Issues, Weight Gain","cluster":3}
+{"age":57,"location":"Newmarket","symptoms":"Night Sweats, Trouble Sleeping","cluster":4}
+{"age":41,"location":"Toronto","symptoms":"Hot Flashes, Memory Problems","cluster":1}
+{"age":53,"location":"Richmond Hill","symptoms":"Mood Swings, Memory Problems, Weight Gain","cluster":0}
+{"age":48,"location":"Newmarket","symptoms":"Joint Pain, Vaginal Dryness, Night Sweats, Memory Problems","cluster":3}
+{"age":59,"location":"Newmarket","symptoms":"Joint Pain, Night Sweats, Vaginal Dryness","cluster":2}
+{"age":56,"location":"Newmarket","symptoms":"Weight Gain","cluster":4}
+{"age":57,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Vaginal Dryness, Urinary Issues, Hot Flashes, Night Sweats, Memory Problems","cluster":4}
+{"age":58,"location":"Vaughan","symptoms":"Trouble Sleeping, Mood Swings, Vaginal Dryness, Hot Flashes, Urinary Issues, Weight Gain, Memory Problems, Night Sweats, Joint Pain","cluster":2}
+{"age":60,"location":"Pickering","symptoms":"Urinary Issues, Mood Swings, Night Sweats, Hot Flashes, Memory Problems, Joint Pain, Vaginal Dryness, Trouble Sleeping, Weight Gain","cluster":2}
+{"age":42,"location":"Toronto","symptoms":"Vaginal Dryness, Trouble Sleeping, Hot Flashes, Weight Gain, Night Sweats, Memory Problems, Urinary Issues","cluster":1}
+{"age":60,"location":"Brampton","symptoms":"Night Sweats, Urinary Issues, Trouble Sleeping, Hot Flashes, Joint Pain, Vaginal Dryness, Weight Gain, Mood Swings","cluster":2}
+{"age":47,"location":"Pickering","symptoms":"Urinary Issues, Weight Gain","cluster":3}
+{"age":49,"location":"Markham","symptoms":"Urinary Issues, Vaginal Dryness, Weight Gain, Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":41,"location":"Aurora","symptoms":"Trouble Sleeping, Hot Flashes, Weight Gain, Night Sweats","cluster":1}
+{"age":57,"location":"Toronto","symptoms":"Night Sweats, Memory Problems, Joint Pain, Urinary Issues, Trouble Sleeping, Mood Swings","cluster":4}
+{"age":57,"location":"Vaughan","symptoms":"Hot Flashes","cluster":4}
+{"age":47,"location":"Richmond Hill","symptoms":"Hot Flashes","cluster":3}
+{"age":56,"location":"Toronto","symptoms":"Joint Pain, Weight Gain, Trouble Sleeping, Mood Swings, Vaginal Dryness","cluster":4}
+{"age":40,"location":"Brampton","symptoms":"Mood Swings, Night Sweats, Hot Flashes","cluster":1}
+{"age":53,"location":"Vaughan","symptoms":"Trouble Sleeping, Night Sweats, Hot Flashes, Joint Pain, Weight Gain, Urinary Issues, Memory Problems, Mood Swings, Vaginal Dryness","cluster":0}
+{"age":57,"location":"Brampton","symptoms":"Urinary Issues, Mood Swings","cluster":4}
+{"age":54,"location":"Burlington","symptoms":"Weight Gain, Mood Swings","cluster":0}
+{"age":55,"location":"Burlington","symptoms":"Trouble Sleeping, Mood Swings, Hot Flashes, Memory Problems, Joint Pain, Weight Gain, Urinary Issues","cluster":4}
+{"age":43,"location":"Brampton","symptoms":"Hot Flashes, Urinary Issues, Night Sweats, Trouble Sleeping, Memory Problems","cluster":1}
+{"age":52,"location":"Newmarket","symptoms":"Hot Flashes, Night Sweats, Urinary Issues, Memory Problems, Joint Pain, Vaginal Dryness, Weight Gain, Mood Swings","cluster":0}
+{"age":46,"location":"Aurora","symptoms":"Vaginal Dryness, Memory Problems, Weight Gain, Mood Swings, Urinary Issues, Night Sweats, Trouble Sleeping","cluster":3}
+{"age":48,"location":"Mississauga","symptoms":"Mood Swings, Night Sweats, Trouble Sleeping","cluster":3}
+{"age":44,"location":"Markham","symptoms":"Vaginal Dryness, Mood Swings, Trouble Sleeping, Urinary Issues, Memory Problems, Night Sweats","cluster":1}
+{"age":48,"location":"Milton","symptoms":"Memory Problems, Trouble Sleeping, Weight Gain, Hot Flashes, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":57,"location":"Pickering","symptoms":"Urinary Issues, Night Sweats, Mood Swings, Trouble Sleeping, Memory Problems, Hot Flashes","cluster":4}
+{"age":45,"location":"Markham","symptoms":"Mood Swings, Trouble Sleeping, Urinary Issues, Night Sweats, Joint Pain, Memory Problems, Hot Flashes","cluster":3}
+{"age":60,"location":"Oakville","symptoms":"Night Sweats, Hot Flashes, Joint Pain, Vaginal Dryness, Urinary Issues, Trouble Sleeping","cluster":2}
+{"age":40,"location":"Whitby","symptoms":"Night Sweats, Mood Swings, Trouble Sleeping, Memory Problems, Urinary Issues","cluster":1}
+{"age":42,"location":"Ajax","symptoms":"Trouble Sleeping, Memory Problems, Urinary Issues, Mood Swings, Night Sweats","cluster":1}
+{"age":40,"location":"Mississauga","symptoms":"Urinary Issues, Joint Pain","cluster":1}
+{"age":60,"location":"Ajax","symptoms":"Weight Gain, Trouble Sleeping, Mood Swings, Hot Flashes, Joint Pain, Memory Problems","cluster":2}
+{"age":45,"location":"Whitby","symptoms":"Mood Swings, Night Sweats, Memory Problems, Urinary Issues, Hot Flashes, Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":58,"location":"Milton","symptoms":"Memory Problems, Mood Swings, Joint Pain","cluster":2}
+{"age":56,"location":"Burlington","symptoms":"Joint Pain, Urinary Issues, Hot Flashes","cluster":4}
+{"age":57,"location":"Aurora","symptoms":"Hot Flashes, Trouble Sleeping, Mood Swings, Memory Problems, Urinary Issues","cluster":4}
+{"age":42,"location":"Vaughan","symptoms":"Mood Swings, Joint Pain, Urinary Issues, Weight Gain","cluster":1}
+{"age":50,"location":"Pickering","symptoms":"Urinary Issues, Vaginal Dryness, Mood Swings, Joint Pain, Night Sweats, Hot Flashes, Memory Problems","cluster":0}
+{"age":60,"location":"Toronto","symptoms":"Urinary Issues, Weight Gain, Trouble Sleeping, Vaginal Dryness, Hot Flashes","cluster":2}
+{"age":43,"location":"Whitby","symptoms":"Weight Gain, Joint Pain, Hot Flashes, Trouble Sleeping, Urinary Issues, Memory Problems, Mood Swings","cluster":1}
+{"age":46,"location":"Newmarket","symptoms":"Joint Pain, Memory Problems, Night Sweats, Urinary Issues, Trouble Sleeping, Hot Flashes, Vaginal Dryness","cluster":3}
+{"age":56,"location":"Toronto","symptoms":"Urinary Issues, Trouble Sleeping, Memory Problems, Weight Gain","cluster":4}
+{"age":40,"location":"Aurora","symptoms":"Weight Gain, Mood Swings","cluster":1}
+{"age":54,"location":"Toronto","symptoms":"Joint Pain","cluster":0}
+{"age":54,"location":"Ajax","symptoms":"Urinary Issues, Night Sweats, Hot Flashes, Vaginal Dryness, Memory Problems, Trouble Sleeping, Joint Pain, Weight Gain","cluster":0}
+{"age":45,"location":"Brampton","symptoms":"Urinary Issues, Joint Pain, Night Sweats, Memory Problems, Trouble Sleeping","cluster":3}
+{"age":52,"location":"Brampton","symptoms":"Vaginal Dryness, Urinary Issues, Joint Pain, Hot Flashes, Mood Swings, Trouble Sleeping, Memory Problems, Night Sweats","cluster":0}
+{"age":44,"location":"Vaughan","symptoms":"Trouble Sleeping, Weight Gain, Night Sweats, Memory Problems, Hot Flashes","cluster":1}
+{"age":47,"location":"Brampton","symptoms":"Mood Swings, Vaginal Dryness, Joint Pain","cluster":3}
+{"age":43,"location":"Markham","symptoms":"Urinary Issues, Weight Gain","cluster":1}
+{"age":46,"location":"Aurora","symptoms":"Memory Problems","cluster":3}
+{"age":60,"location":"Brampton","symptoms":"Hot Flashes, Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":2}
+{"age":57,"location":"Mississauga","symptoms":"Trouble Sleeping, Weight Gain, Vaginal Dryness, Urinary Issues, Night Sweats, Mood Swings, Memory Problems, Joint Pain","cluster":4}
+{"age":51,"location":"Oakville","symptoms":"Vaginal Dryness, Urinary Issues, Memory Problems, Mood Swings, Joint Pain, Hot Flashes, Weight Gain, Trouble Sleeping, Night Sweats","cluster":0}
+{"age":50,"location":"Whitby","symptoms":"Night Sweats, Vaginal Dryness","cluster":0}
+{"age":53,"location":"Mississauga","symptoms":"Trouble Sleeping, Mood Swings, Urinary Issues, Joint Pain, Weight Gain","cluster":0}
+{"age":48,"location":"Markham","symptoms":"Vaginal Dryness, Trouble Sleeping, Memory Problems, Joint Pain, Mood Swings","cluster":3}
+{"age":46,"location":"Richmond Hill","symptoms":"Mood Swings, Vaginal Dryness, Night Sweats, Weight Gain, Memory Problems","cluster":3}
+{"age":59,"location":"Whitby","symptoms":"Vaginal Dryness, Urinary Issues, Mood Swings, Night Sweats","cluster":2}
+{"age":46,"location":"Burlington","symptoms":"Trouble Sleeping, Memory Problems","cluster":3}
+{"age":42,"location":"Whitby","symptoms":"Joint Pain, Trouble Sleeping, Urinary Issues, Vaginal Dryness, Hot Flashes, Memory Problems","cluster":1}
+{"age":56,"location":"Mississauga","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues, Night Sweats, Memory Problems","cluster":4}
+{"age":53,"location":"Markham","symptoms":"Urinary Issues","cluster":0}
+{"age":44,"location":"Toronto","symptoms":"Joint Pain","cluster":1}
+{"age":54,"location":"Whitby","symptoms":"Memory Problems","cluster":0}
+{"age":41,"location":"Richmond Hill","symptoms":"Night Sweats, Urinary Issues","cluster":1}
+{"age":47,"location":"Burlington","symptoms":"Urinary Issues, Hot Flashes, Vaginal Dryness, Joint Pain, Mood Swings, Trouble Sleeping, Night Sweats","cluster":3}
+{"age":40,"location":"Mississauga","symptoms":"Mood Swings, Joint Pain, Weight Gain","cluster":1}
+{"age":50,"location":"Toronto","symptoms":"Weight Gain, Night Sweats, Memory Problems","cluster":0}
+{"age":41,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Joint Pain, Urinary Issues, Vaginal Dryness","cluster":1}
+{"age":53,"location":"Burlington","symptoms":"Mood Swings, Weight Gain, Joint Pain, Hot Flashes, Vaginal Dryness","cluster":0}
+{"age":59,"location":"Toronto","symptoms":"Night Sweats, Memory Problems, Joint Pain, Vaginal Dryness, Urinary Issues, Weight Gain, Trouble Sleeping, Mood Swings, Hot Flashes","cluster":2}
+{"age":59,"location":"Markham","symptoms":"Trouble Sleeping, Memory Problems, Urinary Issues, Hot Flashes, Mood Swings, Weight Gain","cluster":2}
+{"age":52,"location":"Burlington","symptoms":"Joint Pain, Vaginal Dryness, Memory Problems, Urinary Issues, Hot Flashes, Weight Gain","cluster":0}
+{"age":45,"location":"Markham","symptoms":"Night Sweats, Trouble Sleeping","cluster":3}
+{"age":60,"location":"Brampton","symptoms":"Urinary Issues, Weight Gain, Joint Pain, Mood Swings","cluster":2}
+{"age":51,"location":"Aurora","symptoms":"Weight Gain","cluster":0}
+{"age":50,"location":"Markham","symptoms":"Night Sweats, Weight Gain, Urinary Issues, Joint Pain, Trouble Sleeping, Memory Problems, Mood Swings, Hot Flashes","cluster":0}
+{"age":42,"location":"Aurora","symptoms":"Night Sweats, Urinary Issues, Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":1}
+{"age":55,"location":"Richmond Hill","symptoms":"Hot Flashes","cluster":4}
+{"age":40,"location":"Burlington","symptoms":"Urinary Issues, Night Sweats, Hot Flashes, Memory Problems, Vaginal Dryness, Mood Swings, Joint Pain, Weight Gain","cluster":1}
+{"age":56,"location":"Brampton","symptoms":"Weight Gain, Trouble Sleeping","cluster":4}
+{"age":43,"location":"Newmarket","symptoms":"Memory Problems, Weight Gain, Night Sweats, Hot Flashes","cluster":1}
+{"age":58,"location":"Milton","symptoms":"Trouble Sleeping, Urinary Issues, Mood Swings, Weight Gain, Night Sweats","cluster":2}
+{"age":57,"location":"Mississauga","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping","cluster":4}
+{"age":58,"location":"Toronto","symptoms":"Mood Swings, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":40,"location":"Milton","symptoms":"Hot Flashes","cluster":1}
+{"age":55,"location":"Whitby","symptoms":"Memory Problems, Vaginal Dryness, Joint Pain, Night Sweats","cluster":4}
+{"age":46,"location":"Milton","symptoms":"Vaginal Dryness, Hot Flashes, Urinary Issues","cluster":3}
+{"age":43,"location":"Milton","symptoms":"Hot Flashes","cluster":1}
+{"age":51,"location":"Newmarket","symptoms":"Vaginal Dryness, Memory Problems, Trouble Sleeping, Weight Gain, Joint Pain, Hot Flashes, Urinary Issues, Night Sweats, Mood Swings","cluster":0}
+{"age":48,"location":"Markham","symptoms":"Weight Gain, Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":60,"location":"Richmond Hill","symptoms":"Hot Flashes, Weight Gain, Vaginal Dryness","cluster":2}
+{"age":60,"location":"Oakville","symptoms":"Joint Pain, Night Sweats, Memory Problems, Vaginal Dryness","cluster":2}
+{"age":49,"location":"Whitby","symptoms":"Hot Flashes, Trouble Sleeping, Urinary Issues, Joint Pain, Memory Problems, Weight Gain, Night Sweats, Mood Swings","cluster":3}
+{"age":53,"location":"Toronto","symptoms":"Vaginal Dryness, Memory Problems, Hot Flashes, Trouble Sleeping, Weight Gain, Urinary Issues, Joint Pain, Night Sweats, Mood Swings","cluster":0}
+{"age":50,"location":"Whitby","symptoms":"Weight Gain","cluster":0}
+{"age":41,"location":"Vaughan","symptoms":"Memory Problems, Mood Swings, Vaginal Dryness, Weight Gain, Joint Pain, Hot Flashes, Urinary Issues","cluster":1}
+{"age":47,"location":"Mississauga","symptoms":"Memory Problems","cluster":3}
+{"age":46,"location":"Aurora","symptoms":"Trouble Sleeping, Joint Pain","cluster":3}
+{"age":40,"location":"Burlington","symptoms":"Joint Pain, Night Sweats, Hot Flashes","cluster":1}
+{"age":56,"location":"Ajax","symptoms":"Weight Gain, Hot Flashes","cluster":4}
+{"age":45,"location":"Whitby","symptoms":"Hot Flashes, Weight Gain, Urinary Issues, Trouble Sleeping, Night Sweats, Memory Problems, Joint Pain","cluster":3}
+{"age":56,"location":"Burlington","symptoms":"Night Sweats, Hot Flashes, Vaginal Dryness, Memory Problems, Trouble Sleeping","cluster":4}
+{"age":58,"location":"Markham","symptoms":"Mood Swings, Weight Gain","cluster":2}
+{"age":48,"location":"Markham","symptoms":"Urinary Issues, Night Sweats, Mood Swings, Joint Pain, Weight Gain, Hot Flashes, Vaginal Dryness, Trouble Sleeping","cluster":3}
+{"age":40,"location":"Markham","symptoms":"Memory Problems, Trouble Sleeping, Mood Swings, Urinary Issues","cluster":1}
+{"age":43,"location":"Burlington","symptoms":"Urinary Issues","cluster":1}
+{"age":48,"location":"Mississauga","symptoms":"Hot Flashes, Weight Gain, Joint Pain, Urinary Issues","cluster":3}
+{"age":42,"location":"Whitby","symptoms":"Vaginal Dryness, Trouble Sleeping, Hot Flashes, Urinary Issues, Mood Swings, Weight Gain","cluster":1}
+{"age":57,"location":"Pickering","symptoms":"Joint Pain, Mood Swings, Trouble Sleeping, Hot Flashes, Urinary Issues","cluster":4}
+{"age":52,"location":"Oakville","symptoms":"Memory Problems, Trouble Sleeping, Joint Pain, Night Sweats, Urinary Issues","cluster":0}
+{"age":53,"location":"Oakville","symptoms":"Vaginal Dryness, Night Sweats","cluster":0}
+{"age":50,"location":"Brampton","symptoms":"Trouble Sleeping, Hot Flashes, Memory Problems, Joint Pain, Vaginal Dryness, Mood Swings, Weight Gain, Urinary Issues","cluster":0}
+{"age":45,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Mood Swings, Hot Flashes, Urinary Issues, Weight Gain, Joint Pain, Trouble Sleeping, Memory Problems, Night Sweats","cluster":3}
+{"age":40,"location":"Toronto","symptoms":"Joint Pain, Vaginal Dryness, Night Sweats, Urinary Issues, Memory Problems, Trouble Sleeping, Mood Swings, Hot Flashes","cluster":1}
+{"age":48,"location":"Pickering","symptoms":"Trouble Sleeping, Night Sweats, Hot Flashes","cluster":3}
+{"age":47,"location":"Milton","symptoms":"Vaginal Dryness, Joint Pain, Memory Problems, Weight Gain, Mood Swings, Night Sweats","cluster":3}
+{"age":54,"location":"Whitby","symptoms":"Night Sweats, Weight Gain, Joint Pain, Trouble Sleeping, Hot Flashes, Memory Problems, Vaginal Dryness, Urinary Issues, Mood Swings","cluster":0}
+{"age":60,"location":"Vaughan","symptoms":"Urinary Issues, Joint Pain, Memory Problems, Night Sweats, Mood Swings","cluster":2}
+{"age":48,"location":"Burlington","symptoms":"Weight Gain, Joint Pain, Hot Flashes","cluster":3}
+{"age":44,"location":"Milton","symptoms":"Trouble Sleeping, Memory Problems, Joint Pain, Night Sweats, Vaginal Dryness","cluster":1}
+{"age":40,"location":"Brampton","symptoms":"Night Sweats, Urinary Issues, Weight Gain, Hot Flashes, Vaginal Dryness, Trouble Sleeping, Joint Pain, Memory Problems, Mood Swings","cluster":1}
+{"age":47,"location":"Markham","symptoms":"Memory Problems, Weight Gain","cluster":3}
+{"age":41,"location":"Whitby","symptoms":"Urinary Issues, Memory Problems, Hot Flashes, Night Sweats, Vaginal Dryness","cluster":1}
+{"age":58,"location":"Aurora","symptoms":"Joint Pain, Urinary Issues, Trouble Sleeping, Hot Flashes, Weight Gain, Night Sweats, Memory Problems, Vaginal Dryness","cluster":2}
+{"age":41,"location":"Mississauga","symptoms":"Joint Pain","cluster":1}
+{"age":52,"location":"Vaughan","symptoms":"Weight Gain, Trouble Sleeping, Night Sweats","cluster":0}
+{"age":59,"location":"Oakville","symptoms":"Trouble Sleeping, Weight Gain, Vaginal Dryness, Memory Problems, Urinary Issues, Hot Flashes","cluster":2}
+{"age":58,"location":"Brampton","symptoms":"Memory Problems, Trouble Sleeping","cluster":2}
+{"age":45,"location":"Aurora","symptoms":"Mood Swings, Urinary Issues, Vaginal Dryness, Memory Problems, Hot Flashes","cluster":3}
+{"age":43,"location":"Oakville","symptoms":"Urinary Issues, Night Sweats, Weight Gain, Memory Problems, Mood Swings, Vaginal Dryness, Hot Flashes","cluster":1}
+{"age":54,"location":"Markham","symptoms":"Night Sweats, Mood Swings, Joint Pain, Weight Gain, Trouble Sleeping","cluster":0}
+{"age":55,"location":"Vaughan","symptoms":"Hot Flashes, Urinary Issues, Memory Problems, Night Sweats, Mood Swings, Weight Gain","cluster":4}
+{"age":51,"location":"Vaughan","symptoms":"Memory Problems, Hot Flashes, Weight Gain, Night Sweats, Joint Pain, Vaginal Dryness","cluster":0}
+{"age":46,"location":"Brampton","symptoms":"Weight Gain, Night Sweats, Urinary Issues, Trouble Sleeping, Memory Problems","cluster":3}
+{"age":55,"location":"Mississauga","symptoms":"Weight Gain, Memory Problems, Mood Swings, Urinary Issues","cluster":4}
+{"age":47,"location":"Pickering","symptoms":"Joint Pain, Night Sweats","cluster":3}
+{"age":40,"location":"Toronto","symptoms":"Night Sweats","cluster":1}
+{"age":41,"location":"Vaughan","symptoms":"Weight Gain, Vaginal Dryness","cluster":1}
+{"age":41,"location":"Mississauga","symptoms":"Night Sweats, Hot Flashes","cluster":1}
+{"age":43,"location":"Mississauga","symptoms":"Memory Problems, Vaginal Dryness, Night Sweats","cluster":1}
+{"age":50,"location":"Mississauga","symptoms":"Trouble Sleeping, Hot Flashes, Urinary Issues, Mood Swings, Memory Problems, Night Sweats","cluster":0}
+{"age":57,"location":"Milton","symptoms":"Urinary Issues, Hot Flashes, Night Sweats","cluster":4}
+{"age":48,"location":"Oakville","symptoms":"Vaginal Dryness, Memory Problems, Night Sweats, Trouble Sleeping, Hot Flashes, Urinary Issues","cluster":3}
+{"age":53,"location":"Markham","symptoms":"Hot Flashes, Mood Swings","cluster":0}
+{"age":45,"location":"Whitby","symptoms":"Hot Flashes, Mood Swings, Joint Pain, Trouble Sleeping, Weight Gain, Vaginal Dryness, Urinary Issues, Night Sweats, Memory Problems","cluster":3}
+{"age":48,"location":"Brampton","symptoms":"Weight Gain, Urinary Issues, Trouble Sleeping, Joint Pain, Night Sweats, Memory Problems, Mood Swings","cluster":3}
+{"age":52,"location":"Aurora","symptoms":"Urinary Issues, Hot Flashes, Weight Gain","cluster":0}
+{"age":43,"location":"Toronto","symptoms":"Night Sweats, Joint Pain, Mood Swings, Weight Gain, Memory Problems","cluster":1}
+{"age":40,"location":"Toronto","symptoms":"Mood Swings, Urinary Issues, Trouble Sleeping, Night Sweats, Memory Problems, Weight Gain","cluster":1}
+{"age":52,"location":"Aurora","symptoms":"Vaginal Dryness","cluster":0}
+{"age":42,"location":"Mississauga","symptoms":"Trouble Sleeping, Vaginal Dryness, Hot Flashes, Weight Gain, Memory Problems, Urinary Issues, Mood Swings, Night Sweats, Joint Pain","cluster":1}
+{"age":47,"location":"Milton","symptoms":"Trouble Sleeping, Mood Swings, Joint Pain, Vaginal Dryness, Hot Flashes, Urinary Issues, Night Sweats, Weight Gain, Memory Problems","cluster":3}
+{"age":48,"location":"Pickering","symptoms":"Joint Pain, Vaginal Dryness","cluster":3}
+{"age":51,"location":"Burlington","symptoms":"Night Sweats, Mood Swings, Trouble Sleeping, Joint Pain, Vaginal Dryness","cluster":0}
+{"age":54,"location":"Whitby","symptoms":"Joint Pain","cluster":0}
+{"age":47,"location":"Ajax","symptoms":"Hot Flashes, Night Sweats, Joint Pain, Vaginal Dryness, Memory Problems, Weight Gain","cluster":3}
+{"age":48,"location":"Richmond Hill","symptoms":"Trouble Sleeping, Joint Pain","cluster":3}
+{"age":50,"location":"Toronto","symptoms":"Weight Gain, Vaginal Dryness, Memory Problems, Trouble Sleeping, Urinary Issues, Mood Swings","cluster":0}
+{"age":59,"location":"Vaughan","symptoms":"Memory Problems, Night Sweats, Mood Swings, Trouble Sleeping, Hot Flashes, Urinary Issues, Weight Gain, Vaginal Dryness","cluster":2}
+{"age":59,"location":"Newmarket","symptoms":"Weight Gain","cluster":2}
+{"age":40,"location":"Markham","symptoms":"Urinary Issues, Hot Flashes, Weight Gain, Trouble Sleeping, Mood Swings","cluster":1}
+{"age":59,"location":"Mississauga","symptoms":"Joint Pain, Hot Flashes, Memory Problems, Night Sweats, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":48,"location":"Aurora","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping, Hot Flashes, Vaginal Dryness, Joint Pain, Night Sweats","cluster":3}
+{"age":40,"location":"Brampton","symptoms":"Memory Problems, Night Sweats, Trouble Sleeping, Hot Flashes","cluster":1}
+{"age":47,"location":"Newmarket","symptoms":"Urinary Issues, Joint Pain, Trouble Sleeping, Memory Problems","cluster":3}
+{"age":40,"location":"Aurora","symptoms":"Urinary Issues, Trouble Sleeping","cluster":1}
+{"age":60,"location":"Burlington","symptoms":"Vaginal Dryness, Weight Gain, Urinary Issues, Night Sweats, Hot Flashes, Joint Pain, Memory Problems","cluster":2}
+{"age":42,"location":"Ajax","symptoms":"Hot Flashes, Mood Swings, Weight Gain, Memory Problems","cluster":1}
+{"age":44,"location":"Mississauga","symptoms":"Vaginal Dryness, Joint Pain, Mood Swings, Memory Problems","cluster":1}
+{"age":50,"location":"Ajax","symptoms":"Urinary Issues, Night Sweats","cluster":0}
+{"age":51,"location":"Richmond Hill","symptoms":"Hot Flashes, Mood Swings, Trouble Sleeping, Vaginal Dryness, Joint Pain, Night Sweats","cluster":0}
+{"age":59,"location":"Newmarket","symptoms":"Urinary Issues, Trouble Sleeping, Hot Flashes","cluster":2}
+{"age":40,"location":"Pickering","symptoms":"Night Sweats","cluster":1}
+{"age":48,"location":"Markham","symptoms":"Joint Pain","cluster":3}
+{"age":51,"location":"Markham","symptoms":"Trouble Sleeping, Urinary Issues, Hot Flashes, Memory Problems, Vaginal Dryness, Weight Gain, Night Sweats","cluster":0}
+{"age":60,"location":"Aurora","symptoms":"Vaginal Dryness, Weight Gain","cluster":2}
+{"age":52,"location":"Brampton","symptoms":"Urinary Issues, Trouble Sleeping, Joint Pain, Mood Swings","cluster":0}
+{"age":40,"location":"Pickering","symptoms":"Hot Flashes, Memory Problems, Weight Gain, Trouble Sleeping, Vaginal Dryness, Urinary Issues, Joint Pain, Night Sweats","cluster":1}
+{"age":53,"location":"Milton","symptoms":"Vaginal Dryness, Urinary Issues, Weight Gain, Mood Swings","cluster":0}
+{"age":45,"location":"Burlington","symptoms":"Trouble Sleeping, Urinary Issues, Hot Flashes, Memory Problems, Vaginal Dryness","cluster":3}
+{"age":59,"location":"Pickering","symptoms":"Urinary Issues, Hot Flashes, Weight Gain, Mood Swings, Night Sweats, Memory Problems, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":53,"location":"Markham","symptoms":"Urinary Issues, Weight Gain, Joint Pain, Memory Problems","cluster":0}
+{"age":52,"location":"Mississauga","symptoms":"Weight Gain, Trouble Sleeping, Vaginal Dryness, Mood Swings, Urinary Issues, Hot Flashes, Memory Problems, Night Sweats","cluster":0}
+{"age":42,"location":"Pickering","symptoms":"Urinary Issues, Night Sweats, Hot Flashes","cluster":1}
+{"age":59,"location":"Whitby","symptoms":"Hot Flashes, Night Sweats, Memory Problems, Weight Gain, Urinary Issues, Mood Swings, Trouble Sleeping, Vaginal Dryness","cluster":2}
+{"age":50,"location":"Mississauga","symptoms":"Memory Problems, Urinary Issues, Night Sweats, Weight Gain, Hot Flashes, Trouble Sleeping, Vaginal Dryness","cluster":0}
+{"age":51,"location":"Aurora","symptoms":"Night Sweats, Hot Flashes, Urinary Issues, Weight Gain, Mood Swings, Joint Pain, Memory Problems","cluster":0}
+{"age":57,"location":"Pickering","symptoms":"Urinary Issues, Joint Pain, Night Sweats, Memory Problems, Weight Gain, Mood Swings","cluster":4}
+{"age":59,"location":"Milton","symptoms":"Vaginal Dryness, Trouble Sleeping, Weight Gain, Night Sweats, Mood Swings, Hot Flashes","cluster":2}
+{"age":50,"location":"Ajax","symptoms":"Trouble Sleeping, Hot Flashes, Night Sweats, Memory Problems, Vaginal Dryness, Weight Gain, Joint Pain","cluster":0}
+{"age":58,"location":"Toronto","symptoms":"Memory Problems, Night Sweats, Joint Pain, Vaginal Dryness, Weight Gain","cluster":2}
+{"age":60,"location":"Oakville","symptoms":"Hot Flashes","cluster":2}
+{"age":48,"location":"Ajax","symptoms":"Vaginal Dryness, Weight Gain, Hot Flashes, Joint Pain, Trouble Sleeping, Memory Problems","cluster":3}
+{"age":48,"location":"Mississauga","symptoms":"Vaginal Dryness, Hot Flashes","cluster":3}
+{"age":56,"location":"Vaughan","symptoms":"Memory Problems, Night Sweats, Weight Gain, Joint Pain, Hot Flashes, Mood Swings, Urinary Issues, Trouble Sleeping, Vaginal Dryness","cluster":4}
+{"age":58,"location":"Newmarket","symptoms":"Trouble Sleeping, Joint Pain, Vaginal Dryness, Hot Flashes, Night Sweats","cluster":2}
+{"age":42,"location":"Newmarket","symptoms":"Mood Swings","cluster":1}
+{"age":45,"location":"Aurora","symptoms":"Mood Swings, Hot Flashes, Weight Gain, Urinary Issues, Trouble Sleeping","cluster":3}
+{"age":44,"location":"Burlington","symptoms":"Trouble Sleeping, Urinary Issues, Joint Pain, Memory Problems","cluster":1}
+{"age":57,"location":"Whitby","symptoms":"Urinary Issues, Joint Pain, Vaginal Dryness, Night Sweats, Trouble Sleeping","cluster":4}
+{"age":45,"location":"Whitby","symptoms":"Memory Problems","cluster":3}
+{"age":49,"location":"Mississauga","symptoms":"Weight Gain, Joint Pain, Urinary Issues, Vaginal Dryness, Night Sweats, Mood Swings, Trouble Sleeping, Memory Problems, Hot Flashes","cluster":3}
+{"age":58,"location":"Ajax","symptoms":"Mood Swings, Night Sweats, Memory Problems, Trouble Sleeping, Weight Gain, Vaginal Dryness, Urinary Issues","cluster":2}
+{"age":56,"location":"Milton","symptoms":"Joint Pain","cluster":4}
+{"age":58,"location":"Ajax","symptoms":"Hot Flashes","cluster":2}
+{"age":52,"location":"Mississauga","symptoms":"Mood Swings, Hot Flashes, Joint Pain, Vaginal Dryness, Urinary Issues, Night Sweats, Weight Gain, Trouble Sleeping, Memory Problems","cluster":0}
+{"age":49,"location":"Aurora","symptoms":"Night Sweats, Hot Flashes, Memory Problems, Mood Swings, Vaginal Dryness, Trouble Sleeping, Urinary Issues, Weight Gain, Joint Pain","cluster":3}
+{"age":47,"location":"Markham","symptoms":"Mood Swings, Night Sweats, Memory Problems, Weight Gain, Vaginal Dryness, Urinary Issues","cluster":3}
+{"age":43,"location":"Pickering","symptoms":"Memory Problems, Joint Pain, Vaginal Dryness, Trouble Sleeping, Urinary Issues","cluster":1}
+{"age":42,"location":"Milton","symptoms":"Joint Pain, Mood Swings, Urinary Issues, Memory Problems, Hot Flashes, Trouble Sleeping, Weight Gain, Night Sweats, Vaginal Dryness","cluster":1}
+{"age":53,"location":"Oakville","symptoms":"Joint Pain, Hot Flashes, Trouble Sleeping, Mood Swings, Memory Problems","cluster":0}
+{"age":60,"location":"Aurora","symptoms":"Night Sweats","cluster":2}
+{"age":46,"location":"Mississauga","symptoms":"Memory Problems, Trouble Sleeping","cluster":3}
+{"age":49,"location":"Newmarket","symptoms":"Weight Gain, Hot Flashes, Mood Swings","cluster":3}
+{"age":45,"location":"Burlington","symptoms":"Weight Gain, Memory Problems, Hot Flashes, Joint Pain, Night Sweats, Mood Swings, Trouble Sleeping","cluster":3}
+{"age":52,"location":"Ajax","symptoms":"Weight Gain, Night Sweats, Memory Problems, Joint Pain, Trouble Sleeping, Hot Flashes, Vaginal Dryness, Urinary Issues, Mood Swings","cluster":0}
+{"age":53,"location":"Richmond Hill","symptoms":"Weight Gain, Mood Swings, Urinary Issues, Memory Problems, Vaginal Dryness, Night Sweats","cluster":0}
+{"age":57,"location":"Pickering","symptoms":"Weight Gain, Memory Problems, Vaginal Dryness, Mood Swings, Urinary Issues, Trouble Sleeping, Night Sweats","cluster":4}
+{"age":41,"location":"Newmarket","symptoms":"Urinary Issues, Joint Pain, Hot Flashes, Vaginal Dryness, Mood Swings, Memory Problems, Night Sweats, Weight Gain, Trouble Sleeping","cluster":1}
+{"age":47,"location":"Pickering","symptoms":"Hot Flashes, Memory Problems, Mood Swings, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":56,"location":"Milton","symptoms":"Urinary Issues","cluster":4}
+{"age":48,"location":"Milton","symptoms":"Joint Pain, Trouble Sleeping, Urinary Issues, Night Sweats, Weight Gain, Memory Problems, Vaginal Dryness","cluster":3}
+{"age":52,"location":"Whitby","symptoms":"Trouble Sleeping","cluster":0}
+{"age":54,"location":"Whitby","symptoms":"Weight Gain, Vaginal Dryness, Urinary Issues, Joint Pain, Trouble Sleeping, Night Sweats, Mood Swings, Memory Problems, Hot Flashes","cluster":0}
+{"age":52,"location":"Toronto","symptoms":"Mood Swings, Vaginal Dryness","cluster":0}
+{"age":58,"location":"Markham","symptoms":"Hot Flashes, Trouble Sleeping, Weight Gain, Urinary Issues","cluster":2}
+{"age":49,"location":"Markham","symptoms":"Memory Problems, Night Sweats, Mood Swings, Joint Pain, Weight Gain","cluster":3}
+{"age":57,"location":"Oakville","symptoms":"Trouble Sleeping, Memory Problems, Hot Flashes, Night Sweats","cluster":4}
+{"age":44,"location":"Aurora","symptoms":"Vaginal Dryness, Mood Swings, Memory Problems, Hot Flashes, Night Sweats, Weight Gain, Trouble Sleeping, Urinary Issues","cluster":1}
+{"age":42,"location":"Ajax","symptoms":"Weight Gain, Vaginal Dryness, Memory Problems, Urinary Issues, Joint Pain, Night Sweats, Mood Swings, Hot Flashes","cluster":1}
+{"age":42,"location":"Pickering","symptoms":"Night Sweats, Memory Problems, Vaginal Dryness, Hot Flashes, Joint Pain","cluster":1}
+{"age":60,"location":"Vaughan","symptoms":"Night Sweats, Joint Pain","cluster":2}
+{"age":47,"location":"Oakville","symptoms":"Mood Swings, Vaginal Dryness, Hot Flashes, Trouble Sleeping, Urinary Issues, Night Sweats, Memory Problems, Joint Pain, Weight Gain","cluster":3}
+{"age":58,"location":"Toronto","symptoms":"Memory Problems, Night Sweats, Joint Pain","cluster":2}
+{"age":46,"location":"Vaughan","symptoms":"Urinary Issues, Trouble Sleeping, Mood Swings, Weight Gain, Night Sweats, Hot Flashes","cluster":3}
+{"age":51,"location":"Milton","symptoms":"Mood Swings, Hot Flashes, Memory Problems, Trouble Sleeping, Night Sweats, Joint Pain, Vaginal Dryness","cluster":0}
+{"age":44,"location":"Toronto","symptoms":"Memory Problems, Night Sweats, Urinary Issues, Vaginal Dryness, Trouble Sleeping, Hot Flashes, Joint Pain","cluster":1}
+{"age":56,"location":"Oakville","symptoms":"Hot Flashes, Mood Swings, Night Sweats, Joint Pain, Urinary Issues, Memory Problems, Weight Gain","cluster":4}
+{"age":59,"location":"Markham","symptoms":"Weight Gain, Mood Swings, Urinary Issues, Night Sweats, Trouble Sleeping, Hot Flashes, Memory Problems, Joint Pain, Vaginal Dryness","cluster":2}
+{"age":48,"location":"Burlington","symptoms":"Trouble Sleeping, Night Sweats, Vaginal Dryness","cluster":3}
+{"age":47,"location":"Aurora","symptoms":"Urinary Issues","cluster":3}
+{"age":54,"location":"Burlington","symptoms":"Trouble Sleeping","cluster":0}
+{"age":42,"location":"Newmarket","symptoms":"Joint Pain, Mood Swings, Hot Flashes, Night Sweats, Trouble Sleeping, Vaginal Dryness, Memory Problems, Urinary Issues, Weight Gain","cluster":1}
+{"age":55,"location":"Vaughan","symptoms":"Memory Problems, Weight Gain, Trouble Sleeping, Urinary Issues, Joint Pain","cluster":4}
+{"age":50,"location":"Whitby","symptoms":"Night Sweats, Trouble Sleeping, Joint Pain, Vaginal Dryness, Memory Problems","cluster":0}
+{"age":41,"location":"Milton","symptoms":"Mood Swings, Memory Problems, Night Sweats","cluster":1}
+{"age":50,"location":"Milton","symptoms":"Hot Flashes","cluster":0}
+{"age":46,"location":"Whitby","symptoms":"Weight Gain, Joint Pain, Urinary Issues, Hot Flashes, Vaginal Dryness, Trouble Sleeping, Memory Problems, Night Sweats","cluster":3}
+{"age":60,"location":"Milton","symptoms":"Memory Problems, Vaginal Dryness, Mood Swings, Urinary Issues, Hot Flashes, Weight Gain, Trouble Sleeping, Night Sweats","cluster":2}
+{"age":60,"location":"Brampton","symptoms":"Vaginal Dryness, Weight Gain, Urinary Issues, Night Sweats, Memory Problems, Hot Flashes","cluster":2}
+{"age":60,"location":"Pickering","symptoms":"Night Sweats, Memory Problems","cluster":2}
+{"age":54,"location":"Oakville","symptoms":"Weight Gain, Urinary Issues, Trouble Sleeping, Joint Pain","cluster":0}
+{"age":46,"location":"Aurora","symptoms":"Trouble Sleeping, Memory Problems, Night Sweats, Vaginal Dryness, Hot Flashes, Urinary Issues, Weight Gain, Mood Swings","cluster":3}
+{"age":60,"location":"Vaughan","symptoms":"Hot Flashes, Vaginal Dryness, Weight Gain, Memory Problems, Trouble Sleeping, Urinary Issues, Mood Swings, Joint Pain","cluster":2}
+{"age":47,"location":"Brampton","symptoms":"Hot Flashes, Vaginal Dryness, Night Sweats, Joint Pain, Weight Gain, Mood Swings, Urinary Issues","cluster":3}
+{"age":56,"location":"Vaughan","symptoms":"Hot Flashes, Weight Gain","cluster":4}
+{"age":49,"location":"Whitby","symptoms":"Night Sweats","cluster":3}
+{"age":55,"location":"Mississauga","symptoms":"Joint Pain, Mood Swings, Trouble Sleeping, Hot Flashes, Weight Gain","cluster":4}
+{"age":53,"location":"Aurora","symptoms":"Hot Flashes, Joint Pain, Urinary Issues","cluster":0}
+{"age":41,"location":"Richmond Hill","symptoms":"Urinary Issues, Joint Pain, Night Sweats, Memory Problems, Weight Gain, Mood Swings, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":55,"location":"Whitby","symptoms":"Night Sweats, Hot Flashes, Joint Pain, Mood Swings, Weight Gain, Vaginal Dryness, Memory Problems, Trouble Sleeping, Urinary Issues","cluster":4}
+{"age":53,"location":"Brampton","symptoms":"Night Sweats, Memory Problems, Trouble Sleeping, Mood Swings","cluster":0}
+{"age":42,"location":"Mississauga","symptoms":"Vaginal Dryness, Weight Gain, Urinary Issues, Joint Pain, Hot Flashes, Night Sweats, Trouble Sleeping, Mood Swings, Memory Problems","cluster":1}
+{"age":49,"location":"Burlington","symptoms":"Vaginal Dryness, Joint Pain, Weight Gain, Urinary Issues, Mood Swings, Hot Flashes, Night Sweats","cluster":3}
+{"age":46,"location":"Pickering","symptoms":"Joint Pain, Night Sweats, Weight Gain, Hot Flashes","cluster":3}
+{"age":44,"location":"Aurora","symptoms":"Trouble Sleeping, Mood Swings","cluster":1}
+{"age":54,"location":"Whitby","symptoms":"Urinary Issues","cluster":0}
+{"age":50,"location":"Vaughan","symptoms":"Urinary Issues, Hot Flashes","cluster":0}
+{"age":43,"location":"Whitby","symptoms":"Trouble Sleeping, Hot Flashes, Joint Pain, Vaginal Dryness, Weight Gain, Memory Problems, Mood Swings, Urinary Issues","cluster":1}
+{"age":48,"location":"Pickering","symptoms":"Night Sweats, Joint Pain, Trouble Sleeping, Memory Problems, Hot Flashes, Weight Gain, Mood Swings, Urinary Issues, Vaginal Dryness","cluster":3}
+{"age":57,"location":"Richmond Hill","symptoms":"Vaginal Dryness, Hot Flashes, Memory Problems, Weight Gain, Urinary Issues, Joint Pain, Trouble Sleeping","cluster":4}
+{"age":47,"location":"Aurora","symptoms":"Hot Flashes, Vaginal Dryness","cluster":3}
+{"age":53,"location":"Toronto","symptoms":"Trouble Sleeping, Weight Gain, Vaginal Dryness, Mood Swings, Hot Flashes, Night Sweats","cluster":0}
+{"age":49,"location":"Toronto","symptoms":"Mood Swings, Weight Gain, Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":43,"location":"Aurora","symptoms":"Vaginal Dryness, Weight Gain, Mood Swings, Night Sweats, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":45,"location":"Richmond Hill","symptoms":"Night Sweats, Urinary Issues, Joint Pain, Mood Swings, Hot Flashes, Trouble Sleeping","cluster":3}
+{"age":41,"location":"Pickering","symptoms":"Vaginal Dryness, Urinary Issues, Trouble Sleeping, Hot Flashes, Memory Problems, Joint Pain, Night Sweats","cluster":1}
+{"age":41,"location":"Vaughan","symptoms":"Mood Swings, Urinary Issues, Joint Pain, Memory Problems, Vaginal Dryness, Weight Gain","cluster":1}
+{"age":55,"location":"Burlington","symptoms":"Hot Flashes, Mood Swings, Urinary Issues, Trouble Sleeping, Vaginal Dryness, Memory Problems, Night Sweats, Joint Pain","cluster":4}
+{"age":55,"location":"Pickering","symptoms":"Mood Swings","cluster":4}
+{"age":59,"location":"Milton","symptoms":"Mood Swings","cluster":2}
+{"age":53,"location":"Pickering","symptoms":"Hot Flashes, Trouble Sleeping, Weight Gain, Urinary Issues, Memory Problems, Mood Swings, Night Sweats, Vaginal Dryness, Joint Pain","cluster":0}
+{"age":50,"location":"Vaughan","symptoms":"Night Sweats","cluster":0}
+{"age":48,"location":"Whitby","symptoms":"Trouble Sleeping, Joint Pain, Weight Gain, Urinary Issues, Hot Flashes, Mood Swings, Night Sweats","cluster":3}
+{"age":53,"location":"Newmarket","symptoms":"Urinary Issues, Memory Problems, Weight Gain, Hot Flashes","cluster":0}
+{"age":58,"location":"Whitby","symptoms":"Hot Flashes, Trouble Sleeping, Memory Problems, Mood Swings, Joint Pain, Weight Gain, Urinary Issues, Vaginal Dryness","cluster":2}
+{"age":52,"location":"Whitby","symptoms":"Vaginal Dryness, Trouble Sleeping, Joint Pain, Memory Problems, Night Sweats, Mood Swings","cluster":0}
+{"age":46,"location":"Brampton","symptoms":"Mood Swings, Joint Pain, Weight Gain, Night Sweats, Urinary Issues, Memory Problems, Vaginal Dryness, Trouble Sleeping, Hot Flashes","cluster":3}
+{"age":41,"location":"Whitby","symptoms":"Night Sweats, Trouble Sleeping","cluster":1}
+{"age":53,"location":"Mississauga","symptoms":"Night Sweats, Trouble Sleeping, Joint Pain, Urinary Issues, Hot Flashes","cluster":0}
+{"age":42,"location":"Milton","symptoms":"Vaginal Dryness, Urinary Issues, Hot Flashes, Memory Problems, Joint Pain, Weight Gain, Night Sweats","cluster":1}
+{"age":50,"location":"Oakville","symptoms":"Night Sweats, Trouble Sleeping, Memory Problems, Weight Gain, Mood Swings, Vaginal Dryness, Urinary Issues, Joint Pain, Hot Flashes","cluster":0}
+{"age":52,"location":"Whitby","symptoms":"Trouble Sleeping","cluster":0}
+{"age":42,"location":"Vaughan","symptoms":"Urinary Issues, Hot Flashes, Memory Problems, Joint Pain, Trouble Sleeping, Vaginal Dryness, Weight Gain, Mood Swings, Night Sweats","cluster":1}
+{"age":48,"location":"Oakville","symptoms":"Trouble Sleeping","cluster":3}
+{"age":49,"location":"Mississauga","symptoms":"Trouble Sleeping","cluster":3}
+{"age":60,"location":"Burlington","symptoms":"Trouble Sleeping, Hot Flashes, Urinary Issues, Night Sweats","cluster":2}
+{"age":47,"location":"Ajax","symptoms":"Vaginal Dryness, Night Sweats","cluster":3}
+{"age":55,"location":"Markham","symptoms":"Trouble Sleeping, Vaginal Dryness, Mood Swings, Urinary Issues, Weight Gain, Joint Pain, Memory Problems, Hot Flashes, Night Sweats","cluster":4}
+{"age":44,"location":"Newmarket","symptoms":"Urinary Issues, Weight Gain, Night Sweats, Hot Flashes, Trouble Sleeping","cluster":1}
+{"age":57,"location":"Pickering","symptoms":"Memory Problems, Hot Flashes, Weight Gain","cluster":4}
+{"age":60,"location":"Brampton","symptoms":"Trouble Sleeping, Memory Problems, Joint Pain, Weight Gain, Hot Flashes, Vaginal Dryness, Night Sweats, Mood Swings, Urinary Issues","cluster":2}
+{"age":45,"location":"Richmond Hill","symptoms":"Mood Swings, Night Sweats, Weight Gain, Vaginal Dryness","cluster":3}
+{"age":52,"location":"Burlington","symptoms":"Memory Problems, Joint Pain, Night Sweats, Trouble Sleeping, Urinary Issues, Weight Gain, Mood Swings, Hot Flashes, Vaginal Dryness","cluster":0}
+{"age":48,"location":"Brampton","symptoms":"Vaginal Dryness, Trouble Sleeping, Hot Flashes, Weight Gain, Memory Problems, Joint Pain, Urinary Issues, Mood Swings","cluster":3}

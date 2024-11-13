@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "kirpy dirpy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "vite-plugin-wasm": "^3.3.0",
+    "vite-plugin-wasm-pack": "^0.1.12"
+  }
+}
